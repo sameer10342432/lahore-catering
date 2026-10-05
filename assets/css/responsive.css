@@ -1,0 +1,95 @@
+/* ========================================================
+   Responsive Media Queries for Lahore Catering
+   ======================================================== */
+
+@media (max-width: 1024px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .hero-image-card img {
+    height: 380px;
+  }
+
+  .form-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .topbar {
+    display: none;
+  }
+
+  .nav-menu {
+    position: fixed;
+    top: 70px;
+    left: 0;
+    right: 0;
+    background: #ffffff;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1.5rem;
+    gap: 1rem;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    border-bottom: 1px solid var(--border-light);
+    display: none;
+  }
+
+  .nav-menu.active {
+    display: flex;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  .hero {
+    padding: 3rem 0 4rem;
+  }
+
+  .portal-cards {
+    grid-template-columns: 1fr;
+    margin-top: 1.5rem;
+  }
+
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .booking-section {
+    padding: 2.5rem 1.5rem;
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .hero-floating-card {
+    position: relative;
+    bottom: auto;
+    left: auto;
+    margin-top: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .section {
+    padding: 3rem 0;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .nav-actions {
+    display: none;
+  }
+}

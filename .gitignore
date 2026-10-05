@@ -1,0 +1,15 @@
+# Original WordPress Folders (Preserved locally, not part of custom PHP runtime)
+httpdocs/
+wordpress_backup_original/
+
+# Temporary files and logs
+storage/logs/*.log
+*.log
+cookie.txt
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & OS
+.vscode/
+.idea/

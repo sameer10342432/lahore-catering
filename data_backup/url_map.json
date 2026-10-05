@@ -1,0 +1,2242 @@
+{
+    "/": {
+        "old_url": "https://lahorecatering.nl/",
+        "new_url": "/",
+        "type": "page",
+        "id": 101,
+        "slug": "",
+        "title": "Lahore Catering Friesland - Home"
+    },
+    "/order-food-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/order-food-leeuwarden/",
+        "new_url": "/order-food-leeuwarden/",
+        "type": "page",
+        "id": 1359,
+        "slug": "order-food-leeuwarden",
+        "title": "Order Food Leeuwarden"
+    },
+    "/halal-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/halal-catering-friesland/",
+        "new_url": "/halal-catering-friesland/",
+        "type": "post",
+        "id": 1395,
+        "slug": "halal-catering-friesland",
+        "title": "Halal Catering Friesland: Authentieke, Hoogwaardige en Onvergetelijke Catering voor Elke Gelegenheid"
+    },
+    "/pakistani-restaurant-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistani-restaurant-leeuwarden/",
+        "new_url": "/pakistani-restaurant-leeuwarden/",
+        "type": "page",
+        "id": 1353,
+        "slug": "pakistani-restaurant-leeuwarden",
+        "title": "Pakistani Restaurant Leeuwarden"
+    },
+    "/takeaway-and-delivery-stiens/": {
+        "old_url": "https://lahorecatering.nl/takeaway-and-delivery-stiens/",
+        "new_url": "/takeaway-and-delivery-stiens/",
+        "type": "page",
+        "id": 1349,
+        "slug": "takeaway-and-delivery-stiens",
+        "title": "Takeaway and Delivery Stiens"
+    },
+    "/halal-restaurant-friesland/": {
+        "old_url": "https://lahorecatering.nl/halal-restaurant-friesland/",
+        "new_url": "/halal-restaurant-friesland/",
+        "type": "page",
+        "id": 1346,
+        "slug": "halal-restaurant-friesland",
+        "title": "Halal Restaurant Friesland"
+    },
+    "/buffet-restaurant-friesland/": {
+        "old_url": "https://lahorecatering.nl/buffet-restaurant-friesland/",
+        "new_url": "/buffet-restaurant-friesland/",
+        "type": "page",
+        "id": 1320,
+        "slug": "buffet-restaurant-friesland",
+        "title": "Buffet restaurant Friesland"
+    },
+    "/buffet/": {
+        "old_url": "https://lahorecatering.nl/buffet/",
+        "new_url": "/buffet/",
+        "type": "page",
+        "id": 1313,
+        "slug": "buffet",
+        "title": "De Molen – Pakistaans Buffet"
+    },
+    "/catering/": {
+        "old_url": "https://lahorecatering.nl/catering/",
+        "new_url": "/catering/",
+        "type": "page",
+        "id": 1311,
+        "slug": "catering",
+        "title": "Catering"
+    },
+    "/test/": {
+        "old_url": "https://lahorecatering.nl/test/",
+        "new_url": "/test/",
+        "type": "page",
+        "id": 1166,
+        "slug": "test",
+        "title": "testmenu"
+    },
+    "/food-truck/": {
+        "old_url": "https://lahorecatering.nl/food-truck/",
+        "new_url": "/food-truck/",
+        "type": "page",
+        "id": 1155,
+        "slug": "food-truck",
+        "title": "Food truck"
+    },
+    "/video-en-foto-galerij/": {
+        "old_url": "https://lahorecatering.nl/video-en-foto-galerij/",
+        "new_url": "/video-en-foto-galerij/",
+        "type": "page",
+        "id": 579,
+        "slug": "video-en-foto-galerij",
+        "title": "video en foto galerij"
+    },
+    "/my-account/": {
+        "old_url": "https://lahorecatering.nl/my-account/",
+        "new_url": "/my-account/",
+        "type": "page",
+        "id": 341,
+        "slug": "my-account",
+        "title": "My Account"
+    },
+    "/checkout/": {
+        "old_url": "https://lahorecatering.nl/checkout/",
+        "new_url": "/checkout/",
+        "type": "page",
+        "id": 337,
+        "slug": "checkout",
+        "title": "Checkout"
+    },
+    "/cart/": {
+        "old_url": "https://lahorecatering.nl/cart/",
+        "new_url": "/cart/",
+        "type": "page",
+        "id": 334,
+        "slug": "cart",
+        "title": "Cart"
+    },
+    "/about/": {
+        "old_url": "https://lahorecatering.nl/about/",
+        "new_url": "/about/",
+        "type": "page",
+        "id": 136,
+        "slug": "about",
+        "title": "About"
+    },
+    "/cheap-catering-in-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/cheap-catering-in-leeuwarden/",
+        "new_url": "/cheap-catering-in-leeuwarden/",
+        "type": "page",
+        "id": 131,
+        "slug": "cheap-catering-in-leeuwarden",
+        "title": "Reservation – Open Table"
+    },
+    "/indian-food-in-friesland/": {
+        "old_url": "https://lahorecatering.nl/indian-food-in-friesland/",
+        "new_url": "/indian-food-in-friesland/",
+        "type": "page",
+        "id": 129,
+        "slug": "indian-food-in-friesland",
+        "title": "Indian food in Friesland"
+    },
+    "/the-best-indian-catering-company-in-friesland/": {
+        "old_url": "https://lahorecatering.nl/the-best-indian-catering-company-in-friesland/",
+        "new_url": "/the-best-indian-catering-company-in-friesland/",
+        "type": "page",
+        "id": 117,
+        "slug": "the-best-indian-catering-company-in-friesland",
+        "title": "Catering"
+    },
+    "/blog/": {
+        "old_url": "https://lahorecatering.nl/blog/",
+        "new_url": "/blog/",
+        "type": "page",
+        "id": 427,
+        "slug": "blog",
+        "title": "Blog"
+    },
+    "/pakistaanse-specialiteiten-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-specialiteiten-friesland/",
+        "new_url": "/pakistaanse-specialiteiten-friesland/",
+        "type": "post",
+        "id": 2128,
+        "slug": "pakistaanse-specialiteiten-friesland",
+        "title": "Pakistaanse specialiteiten Friesland: authentieke smaken en traditionele gerechten"
+    },
+    "/traditioneel-pakistaans-eten-friesland/": {
+        "old_url": "https://lahorecatering.nl/traditioneel-pakistaans-eten-friesland/",
+        "new_url": "/traditioneel-pakistaans-eten-friesland/",
+        "type": "post",
+        "id": 2125,
+        "slug": "traditioneel-pakistaans-eten-friesland",
+        "title": "Traditioneel Pakistaans eten Friesland: authentieke smaken en rijke culinaire tradities"
+    },
+    "/traditioneel-pakistaans-restaurant/": {
+        "old_url": "https://lahorecatering.nl/traditioneel-pakistaans-restaurant/",
+        "new_url": "/traditioneel-pakistaans-restaurant/",
+        "type": "post",
+        "id": 2122,
+        "slug": "traditioneel-pakistaans-restaurant",
+        "title": "Traditioneel Pakistaans restaurant: authentieke smaken en gastvrijheid"
+    },
+    "/authentiek-pakistaans-eten/": {
+        "old_url": "https://lahorecatering.nl/authentiek-pakistaans-eten/",
+        "new_url": "/authentiek-pakistaans-eten/",
+        "type": "post",
+        "id": 2119,
+        "slug": "authentiek-pakistaans-eten",
+        "title": "Authentiek Pakistaans eten: proef de rijke smaken van Pakistan"
+    },
+    "/eten-bezorgen-stiens/": {
+        "old_url": "https://lahorecatering.nl/eten-bezorgen-stiens/",
+        "new_url": "/eten-bezorgen-stiens/",
+        "type": "post",
+        "id": 2116,
+        "slug": "eten-bezorgen-stiens",
+        "title": "Eten bezorgen Stiens: gemakkelijk, vers en smaakvol eten aan huis"
+    },
+    "/eten-bestellen-stiens/": {
+        "old_url": "https://lahorecatering.nl/eten-bestellen-stiens/",
+        "new_url": "/eten-bestellen-stiens/",
+        "type": "post",
+        "id": 2113,
+        "slug": "eten-bestellen-stiens",
+        "title": "Eten bestellen Stiens: eenvoudig genieten van heerlijke maaltijden"
+    },
+    "/authentiek-pakistaans-restaurant/": {
+        "old_url": "https://lahorecatering.nl/authentiek-pakistaans-restaurant/",
+        "new_url": "/authentiek-pakistaans-restaurant/",
+        "type": "post",
+        "id": 2110,
+        "slug": "authentiek-pakistaans-restaurant",
+        "title": "Authentiek Pakistaans restaurant: proef de rijke smaken van Pakistan"
+    },
+    "/pakistaanse-keuken-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-keuken-friesland/",
+        "new_url": "/pakistaanse-keuken-friesland/",
+        "type": "post",
+        "id": 2107,
+        "slug": "pakistaanse-keuken-friesland",
+        "title": "Pakistaanse keuken Friesland: authentieke smaken en culinaire tradities"
+    },
+    "/pakistaans-eten-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-eten-leeuwarden/",
+        "new_url": "/pakistaans-eten-leeuwarden/",
+        "type": "post",
+        "id": 2103,
+        "slug": "pakistaans-eten-leeuwarden",
+        "title": "Pakistaans eten Leeuwarden: authentieke smaken en heerlijke maaltijden"
+    },
+    "/pakistaans-eten-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-eten-friesland/",
+        "new_url": "/pakistaans-eten-friesland/",
+        "type": "post",
+        "id": 2099,
+        "slug": "pakistaans-eten-friesland",
+        "title": "Pakistaans eten Friesland: authentieke smaken voor elke gelegenheid"
+    },
+    "/pakistaanse-keuken-stiens/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-keuken-stiens/",
+        "new_url": "/pakistaanse-keuken-stiens/",
+        "type": "post",
+        "id": 2092,
+        "slug": "pakistaanse-keuken-stiens",
+        "title": "Pakistaanse keuken Stiens – Authentieke smaken en traditionele gerechten"
+    },
+    "/pakistaanse-keuken-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-keuken-leeuwarden/",
+        "new_url": "/pakistaanse-keuken-leeuwarden/",
+        "type": "post",
+        "id": 2087,
+        "slug": "pakistaanse-keuken-leeuwarden",
+        "title": "Pakistaanse keuken Leeuwarden – Ontdek authentieke Pakistaanse smaken"
+    },
+    "/pakistaanse-maaltijd-bezorgen/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-maaltijd-bezorgen/",
+        "new_url": "/pakistaanse-maaltijd-bezorgen/",
+        "type": "post",
+        "id": 2084,
+        "slug": "pakistaanse-maaltijd-bezorgen",
+        "title": "Pakistaanse maaltijd bezorgen – Authentieke gerechten bij u thuis"
+    },
+    "/pakistaanse-maaltijden-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-maaltijden-leeuwarden/",
+        "new_url": "/pakistaanse-maaltijden-leeuwarden/",
+        "type": "post",
+        "id": 2081,
+        "slug": "pakistaanse-maaltijden-leeuwarden",
+        "title": "Pakistaanse maaltijden Leeuwarden – Authentieke Pakistaanse gerechten"
+    },
+    "/pakistaanse-maaltijden-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-maaltijden-friesland/",
+        "new_url": "/pakistaanse-maaltijden-friesland/",
+        "type": "post",
+        "id": 2077,
+        "slug": "pakistaanse-maaltijden-friesland",
+        "title": "Pakistaanse maaltijden Friesland: authentieke smaken voor elk moment"
+    },
+    "/pakistaanse-lunch-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-lunch-friesland/",
+        "new_url": "/pakistaanse-lunch-friesland/",
+        "type": "post",
+        "id": 2074,
+        "slug": "pakistaanse-lunch-friesland",
+        "title": "Pakistaanse lunch Friesland: authentieke smaken voor een heerlijke middag"
+    },
+    "/pakistaans-lunch-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-lunch-leeuwarden/",
+        "new_url": "/pakistaans-lunch-leeuwarden/",
+        "type": "post",
+        "id": 2070,
+        "slug": "pakistaans-lunch-leeuwarden",
+        "title": "Pakistaans lunch Leeuwarden: authentieke smaken voor een heerlijke middag"
+    },
+    "/pakistaans-diner-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-diner-friesland/",
+        "new_url": "/pakistaans-diner-friesland/",
+        "type": "post",
+        "id": 2067,
+        "slug": "pakistaans-diner-friesland",
+        "title": "Pakistaans diner Friesland: Authentieke smaken en gerechten voor een bijzondere avond"
+    },
+    "/pakistaans-diner-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-diner-leeuwarden/",
+        "new_url": "/pakistaans-diner-leeuwarden/",
+        "type": "post",
+        "id": 2063,
+        "slug": "pakistaans-diner-leeuwarden",
+        "title": "Pakistaans Diner in Leeuwarden: Dé Complete Gids voor Authentieke Geuren, Rijke Specerijen en Onvergetelijke Smaken"
+    },
+    "/pakistaans-eten-bezorgen-stiens/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-eten-bezorgen-stiens/",
+        "new_url": "/pakistaans-eten-bezorgen-stiens/",
+        "type": "post",
+        "id": 2060,
+        "slug": "pakistaans-eten-bezorgen-stiens",
+        "title": "Pakistaans eten bezorgen in Stiens: Authentieke kruiden, rijke tradities en warm comfort aan huis"
+    },
+    "/pakistaans-eten-bezorgen-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-eten-bezorgen-leeuwarden/",
+        "new_url": "/pakistaans-eten-bezorgen-leeuwarden/",
+        "type": "post",
+        "id": 2056,
+        "slug": "pakistaans-eten-bezorgen-leeuwarden",
+        "title": "Pakistaans eten bezorgen Leeuwarden: authentieke smaken bij u thuis"
+    },
+    "/pakistaans-eten-bezorgen-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-eten-bezorgen-friesland/",
+        "new_url": "/pakistaans-eten-bezorgen-friesland/",
+        "type": "post",
+        "id": 2053,
+        "slug": "pakistaans-eten-bezorgen-friesland",
+        "title": "Pakistaans eten bezorgen Friesland: authentieke smaken bij u thuis"
+    },
+    "/pakistaans-eten-afhalen-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-eten-afhalen-leeuwarden/",
+        "new_url": "/pakistaans-eten-afhalen-leeuwarden/",
+        "type": "post",
+        "id": 2050,
+        "slug": "pakistaans-eten-afhalen-leeuwarden",
+        "title": "Pakistaans eten afhalen Leeuwarden: authentieke smaken voor thuis"
+    },
+    "/pakistaans-eten-afhalen-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-eten-afhalen-friesland/",
+        "new_url": "/pakistaans-eten-afhalen-friesland/",
+        "type": "post",
+        "id": 2047,
+        "slug": "pakistaans-eten-afhalen-friesland",
+        "title": "Pakistaans eten afhalen Friesland: authentieke Pakistaanse gerechten voor thuis"
+    },
+    "/halal-eten-afhalen-stiens/": {
+        "old_url": "https://lahorecatering.nl/halal-eten-afhalen-stiens/",
+        "new_url": "/halal-eten-afhalen-stiens/",
+        "type": "post",
+        "id": 2043,
+        "slug": "halal-eten-afhalen-stiens",
+        "title": "Halal eten afhalen Stiens: vers, smaakvol en eenvoudig besteld"
+    },
+    "/halal-eten-afhalen-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/halal-eten-afhalen-leeuwarden/",
+        "new_url": "/halal-eten-afhalen-leeuwarden/",
+        "type": "post",
+        "id": 2040,
+        "slug": "halal-eten-afhalen-leeuwarden",
+        "title": "Halal eten afhalen Leeuwarden: ontdek smakelijke halal gerechten bij jou in de buurt"
+    },
+    "/halal-eten-afhalen-friesland/": {
+        "old_url": "https://lahorecatering.nl/halal-eten-afhalen-friesland/",
+        "new_url": "/halal-eten-afhalen-friesland/",
+        "type": "post",
+        "id": 2035,
+        "slug": "halal-eten-afhalen-friesland",
+        "title": "Halal eten afhalen Friesland: lekker, gemakkelijk en vertrouwd"
+    },
+    "/halal-eten-bestellen-friesland/": {
+        "old_url": "https://lahorecatering.nl/halal-eten-bestellen-friesland/",
+        "new_url": "/halal-eten-bestellen-friesland/",
+        "type": "post",
+        "id": 2032,
+        "slug": "halal-eten-bestellen-friesland",
+        "title": "Halal eten bestellen Friesland: eenvoudig genieten van heerlijke halal maaltijden"
+    },
+    "/halal-eten-bestellen-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/halal-eten-bestellen-leeuwarden/",
+        "new_url": "/halal-eten-bestellen-leeuwarden/",
+        "type": "post",
+        "id": 2028,
+        "slug": "halal-eten-bestellen-leeuwarden",
+        "title": "Halal eten bestellen Leeuwarden: lekker, gemakkelijk en betrouwbaar"
+    },
+    "/halal-restaurant-nabij-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/halal-restaurant-nabij-leeuwarden/",
+        "new_url": "/halal-restaurant-nabij-leeuwarden/",
+        "type": "post",
+        "id": 2025,
+        "slug": "halal-restaurant-nabij-leeuwarden",
+        "title": "Halal restaurant nabij Leeuwarden: smaakvol, betrouwbaar en gastvrij"
+    },
+    "/halal-restaurant-leeuwarden-centrum/": {
+        "old_url": "https://lahorecatering.nl/halal-restaurant-leeuwarden-centrum/",
+        "new_url": "/halal-restaurant-leeuwarden-centrum/",
+        "type": "post",
+        "id": 2022,
+        "slug": "halal-restaurant-leeuwarden-centrum",
+        "title": "Halal restaurant Leeuwarden centrum: smaakvol halal eten in het hart van de stad"
+    },
+    "/halal-afhaalrestaurant-stiens/": {
+        "old_url": "https://lahorecatering.nl/halal-afhaalrestaurant-stiens/",
+        "new_url": "/halal-afhaalrestaurant-stiens/",
+        "type": "post",
+        "id": 2018,
+        "slug": "halal-afhaalrestaurant-stiens",
+        "title": "Halal afhaalrestaurant Stiens: heerlijk halal eten om af te halen"
+    },
+    "/halal-afhaalrestaurant-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/halal-afhaalrestaurant-leeuwarden/",
+        "new_url": "/halal-afhaalrestaurant-leeuwarden/",
+        "type": "post",
+        "id": 2014,
+        "slug": "halal-afhaalrestaurant-leeuwarden",
+        "title": "Halal afhaalrestaurant Leeuwarden: smaakvol halal eten om mee te nemen"
+    },
+    "/halal-afhaalrestaurant-friesland/": {
+        "old_url": "https://lahorecatering.nl/halal-afhaalrestaurant-friesland/",
+        "new_url": "/halal-afhaalrestaurant-friesland/",
+        "type": "post",
+        "id": 2010,
+        "slug": "halal-afhaalrestaurant-friesland",
+        "title": "Halal afhaalrestaurant Friesland – smaakvolle halalgerechten om af te halen"
+    },
+    "/indiaas-afhaalrestaurant-friesland/": {
+        "old_url": "https://lahorecatering.nl/indiaas-afhaalrestaurant-friesland/",
+        "new_url": "/indiaas-afhaalrestaurant-friesland/",
+        "type": "post",
+        "id": 2007,
+        "slug": "indiaas-afhaalrestaurant-friesland",
+        "title": "Indiaas Afhaalrestaurant Friesland: Authentieke Smaken voor Thuis"
+    },
+    "/indiaas-afhaaleten-friesland/": {
+        "old_url": "https://lahorecatering.nl/indiaas-afhaaleten-friesland/",
+        "new_url": "/indiaas-afhaaleten-friesland/",
+        "type": "post",
+        "id": 2003,
+        "slug": "indiaas-afhaaleten-friesland",
+        "title": "Indiaas afhaaleten Friesland: authentieke smaken gemakkelijk thuis genieten"
+    },
+    "/indiaas-restaurant-friesland/": {
+        "old_url": "https://lahorecatering.nl/indiaas-restaurant-friesland/",
+        "new_url": "/indiaas-restaurant-friesland/",
+        "type": "post",
+        "id": 1999,
+        "slug": "indiaas-restaurant-friesland",
+        "title": "Indiaas Restaurant Friesland: Authentieke Indiase Smaken in het Hart van het Noorden"
+    },
+    "/indiaas-restaurant-stiens/": {
+        "old_url": "https://lahorecatering.nl/indiaas-restaurant-stiens/",
+        "new_url": "/indiaas-restaurant-stiens/",
+        "type": "post",
+        "id": 1996,
+        "slug": "indiaas-restaurant-stiens",
+        "title": "Indiaas Restaurant Stiens: Authentiek Genieten van Indiase Smaken"
+    },
+    "/indiaas-restaurant-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/indiaas-restaurant-leeuwarden/",
+        "new_url": "/indiaas-restaurant-leeuwarden/",
+        "type": "post",
+        "id": 1992,
+        "slug": "indiaas-restaurant-leeuwarden",
+        "title": "Indiaas Restaurant Leeuwarden: Authentiek Genieten van de Indiase Keuken"
+    },
+    "/pakistaans-restaurant-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-restaurant-leeuwarden/",
+        "new_url": "/pakistaans-restaurant-leeuwarden/",
+        "type": "post",
+        "id": 1988,
+        "slug": "pakistaans-restaurant-leeuwarden",
+        "title": "Pakistaans Restaurant Leeuwarden: Authentiek Genieten van de Pakistaanse Keuken"
+    },
+    "/pakistaans-restaurant-stiens/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-restaurant-stiens/",
+        "new_url": "/pakistaans-restaurant-stiens/",
+        "type": "post",
+        "id": 1983,
+        "slug": "pakistaans-restaurant-stiens",
+        "title": "Pakistaans restaurant Stiens – authentieke smaken en gastvrijheid"
+    },
+    "/pakistaans-afhaalrestaurant-stiens/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-afhaalrestaurant-stiens/",
+        "new_url": "/pakistaans-afhaalrestaurant-stiens/",
+        "type": "post",
+        "id": 1978,
+        "slug": "pakistaans-afhaalrestaurant-stiens",
+        "title": "Pakistaans afhaalrestaurant Stiens – Authentieke Pakistaanse gerechten om af te halen"
+    },
+    "/pakistaans-afhaalrestaurant-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-afhaalrestaurant-leeuwarden/",
+        "new_url": "/pakistaans-afhaalrestaurant-leeuwarden/",
+        "type": "post",
+        "id": 1975,
+        "slug": "pakistaans-afhaalrestaurant-leeuwarden",
+        "title": "Pakistaans afhaalrestaurant Leeuwarden: authentieke Pakistaanse smaken om af te halen"
+    },
+    "/pakistaans-afhaalrestaurant-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-afhaalrestaurant-friesland/",
+        "new_url": "/pakistaans-afhaalrestaurant-friesland/",
+        "type": "post",
+        "id": 1972,
+        "slug": "pakistaans-afhaalrestaurant-friesland",
+        "title": "Pakistaans afhaalrestaurant Friesland: authentieke Pakistaanse smaken voor thuis"
+    },
+    "/maatwerk-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/maatwerk-catering-friesland/",
+        "new_url": "/maatwerk-catering-friesland/",
+        "type": "post",
+        "id": 1969,
+        "slug": "maatwerk-catering-friesland",
+        "title": "Maatwerk catering Friesland: culinaire catering die volledig aansluit op uw evenement"
+    },
+    "/catering-voor-charity-event/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-charity-event/",
+        "new_url": "/catering-voor-charity-event/",
+        "type": "post",
+        "id": 1965,
+        "slug": "catering-voor-charity-event",
+        "title": "Catering voor charity event"
+    },
+    "/catering-voor-opening-evenement/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-opening-evenement/",
+        "new_url": "/catering-voor-opening-evenement/",
+        "type": "post",
+        "id": 1960,
+        "slug": "catering-voor-opening-evenement",
+        "title": "Catering voor opening evenement"
+    },
+    "/catering-voor-netwerkbijeenkomst/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-netwerkbijeenkomst/",
+        "new_url": "/catering-voor-netwerkbijeenkomst/",
+        "type": "post",
+        "id": 1956,
+        "slug": "catering-voor-netwerkbijeenkomst",
+        "title": "Catering voor netwerkbijeenkomst: professioneel, verzorgd en gastvrij"
+    },
+    "/catering-voor-pensioenfeest/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-pensioenfeest/",
+        "new_url": "/catering-voor-pensioenfeest/",
+        "type": "post",
+        "id": 1953,
+        "slug": "catering-voor-pensioenfeest",
+        "title": "Catering voor pensioenfeest: sfeervol genieten van een bijzonder afscheid"
+    },
+    "/catering-voor-verlovingsfeest/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-verlovingsfeest/",
+        "new_url": "/catering-voor-verlovingsfeest/",
+        "type": "post",
+        "id": 1950,
+        "slug": "catering-voor-verlovingsfeest",
+        "title": "Catering voor verlovingsfeest: sfeervol genieten van heerlijke gerechten"
+    },
+    "/catering-voor-diploma-uitreiking/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-diploma-uitreiking/",
+        "new_url": "/catering-voor-diploma-uitreiking/",
+        "type": "post",
+        "id": 1946,
+        "slug": "catering-voor-diploma-uitreiking",
+        "title": "Catering voor diploma uitreiking"
+    },
+    "/buffet-voor-jubileumfeest/": {
+        "old_url": "https://lahorecatering.nl/buffet-voor-jubileumfeest/",
+        "new_url": "/buffet-voor-jubileumfeest/",
+        "type": "post",
+        "id": 1941,
+        "slug": "buffet-voor-jubileumfeest",
+        "title": "Buffet voor jubileumfeest: sfeervol, feestelijk en compleet genieten"
+    },
+    "/combinatie-buffet-friesland/": {
+        "old_url": "https://lahorecatering.nl/combinatie-buffet-friesland/",
+        "new_url": "/combinatie-buffet-friesland/",
+        "type": "post",
+        "id": 1937,
+        "slug": "combinatie-buffet-friesland",
+        "title": "Combinatie buffet Friesland: veelzijdig genieten voor iedere gelegenheid"
+    },
+    "/koud-buffet-friesland/": {
+        "old_url": "https://lahorecatering.nl/koud-buffet-friesland/",
+        "new_url": "/koud-buffet-friesland/",
+        "type": "post",
+        "id": 1934,
+        "slug": "koud-buffet-friesland",
+        "title": "Koud buffet Friesland – compleet verzorgd genieten voor iedere gelegenheid"
+    },
+    "/warm-buffet-friesland/": {
+        "old_url": "https://lahorecatering.nl/warm-buffet-friesland/",
+        "new_url": "/warm-buffet-friesland/",
+        "type": "post",
+        "id": 1931,
+        "slug": "warm-buffet-friesland",
+        "title": "Warm buffet Friesland: sfeervol genieten van heerlijke warme gerechten"
+    },
+    "/familie-arrangement-catering/": {
+        "old_url": "https://lahorecatering.nl/familie-arrangement-catering/",
+        "new_url": "/familie-arrangement-catering/",
+        "type": "post",
+        "id": 1928,
+        "slug": "familie-arrangement-catering",
+        "title": "Familie arrangement catering: samen genieten van een compleet verzorgde familiedag"
+    },
+    "/groot-buffet-nederland/": {
+        "old_url": "https://lahorecatering.nl/groot-buffet-nederland/",
+        "new_url": "/groot-buffet-nederland/",
+        "type": "post",
+        "id": 1923,
+        "slug": "groot-buffet-nederland",
+        "title": "Groot buffet Nederland: compleet verzorgde buffetten voor ieder evenement"
+    },
+    "/feestmaaltijden-friesland-2/": {
+        "old_url": "https://lahorecatering.nl/feestmaaltijden-friesland-2/",
+        "new_url": "/feestmaaltijden-friesland-2/",
+        "type": "post",
+        "id": 1920,
+        "slug": "feestmaaltijden-friesland-2",
+        "title": "Feestmaaltijden Friesland: smaakvolle catering voor bijzondere momenten"
+    },
+    "/fine-dining-catering/": {
+        "old_url": "https://lahorecatering.nl/fine-dining-catering/",
+        "new_url": "/fine-dining-catering/",
+        "type": "post",
+        "id": 1912,
+        "slug": "fine-dining-catering",
+        "title": "Fine dining catering: culinaire luxe voor bijzondere momenten"
+    },
+    "/exclusieve-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/exclusieve-catering-friesland/",
+        "new_url": "/exclusieve-catering-friesland/",
+        "type": "post",
+        "id": 1909,
+        "slug": "exclusieve-catering-friesland",
+        "title": "Exclusieve catering Friesland: culinaire beleving voor bijzondere momenten"
+    },
+    "/premium-catering-nederland/": {
+        "old_url": "https://lahorecatering.nl/premium-catering-nederland/",
+        "new_url": "/premium-catering-nederland/",
+        "type": "post",
+        "id": 1906,
+        "slug": "premium-catering-nederland",
+        "title": "Premium catering Nederland: culinaire klasse voor bijzondere momenten"
+    },
+    "/catering-voor-luxe-evenementen/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-luxe-evenementen/",
+        "new_url": "/catering-voor-luxe-evenementen/",
+        "type": "post",
+        "id": 1900,
+        "slug": "catering-voor-luxe-evenementen",
+        "title": "Catering voor luxe evenementen"
+    },
+    "/catering-met-decoratie/": {
+        "old_url": "https://lahorecatering.nl/catering-met-decoratie/",
+        "new_url": "/catering-met-decoratie/",
+        "type": "post",
+        "id": 1897,
+        "slug": "catering-met-decoratie",
+        "title": "Catering met decoratie: culinaire verzorging en stijlvolle aankleding in één geheel"
+    },
+    "/tafelschikking-catering/": {
+        "old_url": "https://lahorecatering.nl/tafelschikking-catering/",
+        "new_url": "/tafelschikking-catering/",
+        "type": "post",
+        "id": 1893,
+        "slug": "tafelschikking-catering",
+        "title": "Tafelschikking catering: een stijlvolle en praktische tafelindeling voor ieder evenement"
+    },
+    "/catering-inclusief-personeel/": {
+        "old_url": "https://lahorecatering.nl/catering-inclusief-personeel/",
+        "new_url": "/catering-inclusief-personeel/",
+        "type": "post",
+        "id": 1889,
+        "slug": "catering-inclusief-personeel",
+        "title": "Catering inclusief personeel: complete catering met professionele bediening"
+    },
+    "/catering-inclusief-servies/": {
+        "old_url": "https://lahorecatering.nl/catering-inclusief-servies/",
+        "new_url": "/catering-inclusief-servies/",
+        "type": "post",
+        "id": 1886,
+        "slug": "catering-inclusief-servies",
+        "title": "Catering inclusief servies: compleet verzorgd genieten zonder zorgen"
+    },
+    "/buffet-pakketten-friesland/": {
+        "old_url": "https://lahorecatering.nl/buffet-pakketten-friesland/",
+        "new_url": "/buffet-pakketten-friesland/",
+        "type": "post",
+        "id": 1883,
+        "slug": "buffet-pakketten-friesland",
+        "title": "Buffet pakketten Friesland"
+    },
+    "/catering-arrangementen/": {
+        "old_url": "https://lahorecatering.nl/catering-arrangementen/",
+        "new_url": "/catering-arrangementen/",
+        "type": "post",
+        "id": 1880,
+        "slug": "catering-arrangementen",
+        "title": "Catering arrangementen: compleet verzorgd voor iedere gelegenheid"
+    },
+    "/buffet-samenstellen/": {
+        "old_url": "https://lahorecatering.nl/buffet-samenstellen/",
+        "new_url": "/buffet-samenstellen/",
+        "type": "post",
+        "id": 1876,
+        "slug": "buffet-samenstellen",
+        "title": "Buffet samenstellen: zo creëren we een compleet en smaakvol buffet"
+    },
+    "/catering-menu-op-maat/": {
+        "old_url": "https://lahorecatering.nl/catering-menu-op-maat/",
+        "new_url": "/catering-menu-op-maat/",
+        "type": "post",
+        "id": 1873,
+        "slug": "catering-menu-op-maat",
+        "title": "Catering menu op maat: een persoonlijk menu voor ieder evenement"
+    },
+    "/online-buffet-bestellen/": {
+        "old_url": "https://lahorecatering.nl/online-buffet-bestellen/",
+        "new_url": "/online-buffet-bestellen/",
+        "type": "post",
+        "id": 1869,
+        "slug": "online-buffet-bestellen",
+        "title": "Online buffet bestellen: eenvoudig, smaakvol en compleet geregeld"
+    },
+    "/catering-reservering-online/": {
+        "old_url": "https://lahorecatering.nl/catering-reservering-online/",
+        "new_url": "/catering-reservering-online/",
+        "type": "post",
+        "id": 1866,
+        "slug": "catering-reservering-online",
+        "title": "Catering reservering online: eenvoudig en professioneel catering bestellen"
+    },
+    "/catering-voor-zondag/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-zondag/",
+        "new_url": "/catering-voor-zondag/",
+        "type": "post",
+        "id": 1863,
+        "slug": "catering-voor-zondag",
+        "title": "Catering voor zondag: zorgeloos genieten van een heerlijke zondag"
+    },
+    "/weekend-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/weekend-catering-friesland/",
+        "new_url": "/weekend-catering-friesland/",
+        "type": "post",
+        "id": 1860,
+        "slug": "weekend-catering-friesland",
+        "title": "Weekend catering Friesland: compleet verzorgd genieten van lekker eten"
+    },
+    "/gezinscatering-friesland/": {
+        "old_url": "https://lahorecatering.nl/gezinscatering-friesland/",
+        "new_url": "/gezinscatering-friesland/",
+        "type": "post",
+        "id": 1857,
+        "slug": "gezinscatering-friesland",
+        "title": "Gezinscatering Friesland: samen genieten van heerlijke maaltijden aan huis"
+    },
+    "/familie-buffet-nederland/": {
+        "old_url": "https://lahorecatering.nl/familie-buffet-nederland/",
+        "new_url": "/familie-buffet-nederland/",
+        "type": "post",
+        "id": 1853,
+        "slug": "familie-buffet-nederland",
+        "title": "Familie buffet Nederland: samen genieten van een uitgebreid en sfeervol familiebuffet"
+    },
+    "/kruidige-gerechten-friesland/": {
+        "old_url": "https://lahorecatering.nl/kruidige-gerechten-friesland/",
+        "new_url": "/kruidige-gerechten-friesland/",
+        "type": "post",
+        "id": 1850,
+        "slug": "kruidige-gerechten-friesland",
+        "title": "Kruidige gerechten Friesland: smaakvolle recepten en culinaire tradities"
+    },
+    "/oosterse-keuken-nederland/": {
+        "old_url": "https://lahorecatering.nl/oosterse-keuken-nederland/",
+        "new_url": "/oosterse-keuken-nederland/",
+        "type": "post",
+        "id": 1846,
+        "slug": "oosterse-keuken-nederland",
+        "title": "Oosterse keuken Nederland: ontdek de rijke smaken en culinaire tradities"
+    },
+    "/traditionele-keuken-friesland/": {
+        "old_url": "https://lahorecatering.nl/traditionele-keuken-friesland/",
+        "new_url": "/traditionele-keuken-friesland/",
+        "type": "post",
+        "id": 1843,
+        "slug": "traditionele-keuken-friesland",
+        "title": "Traditionele keuken Friesland"
+    },
+    "/ambachtelijke-catering/": {
+        "old_url": "https://lahorecatering.nl/ambachtelijke-catering/",
+        "new_url": "/ambachtelijke-catering/",
+        "type": "post",
+        "id": 1840,
+        "slug": "ambachtelijke-catering",
+        "title": "Ambachtelijke catering: smaakvolle gerechten met aandacht bereid"
+    },
+    "/catering-met-verse-ingredienten/": {
+        "old_url": "https://lahorecatering.nl/catering-met-verse-ingredienten/",
+        "new_url": "/catering-met-verse-ingredienten/",
+        "type": "post",
+        "id": 1837,
+        "slug": "catering-met-verse-ingredienten",
+        "title": "Catering met verse ingrediënten: smaakvolle catering met kwaliteit als uitgangspunt"
+    },
+    "/verse-maaltijden-friesland/": {
+        "old_url": "https://lahorecatering.nl/verse-maaltijden-friesland/",
+        "new_url": "/verse-maaltijden-friesland/",
+        "type": "post",
+        "id": 1834,
+        "slug": "verse-maaltijden-friesland",
+        "title": "Verse maaltijden Friesland: smakelijk, gezond en gemakkelijk aan huis"
+    },
+    "/maaltijdservice-friesland/": {
+        "old_url": "https://lahorecatering.nl/maaltijdservice-friesland/",
+        "new_url": "/maaltijdservice-friesland/",
+        "type": "post",
+        "id": 1831,
+        "slug": "maaltijdservice-friesland",
+        "title": "Maaltijdservice Friesland: verse en gemakkelijke maaltijden aan huis"
+    },
+    "/lunch-bezorgen-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/lunch-bezorgen-leeuwarden/",
+        "new_url": "/lunch-bezorgen-leeuwarden/",
+        "type": "post",
+        "id": 1828,
+        "slug": "lunch-bezorgen-leeuwarden",
+        "title": "Lunch bezorgen Leeuwarden – Vers, smaakvol en gemakkelijk geregeld"
+    },
+    "/brunch-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/brunch-catering-friesland/",
+        "new_url": "/brunch-catering-friesland/",
+        "type": "post",
+        "id": 1825,
+        "slug": "brunch-catering-friesland",
+        "title": "Brunch catering Friesland: smaakvolle brunch voor iedere gelegenheid"
+    },
+    "/ontbijt-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/ontbijt-catering-friesland/",
+        "new_url": "/ontbijt-catering-friesland/",
+        "type": "post",
+        "id": 1822,
+        "slug": "ontbijt-catering-friesland",
+        "title": "Ontbijt catering Friesland: vers, verzorgd en volledig op maat"
+    },
+    "/gebak-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/gebak-catering-friesland/",
+        "new_url": "/gebak-catering-friesland/",
+        "type": "post",
+        "id": 1818,
+        "slug": "gebak-catering-friesland",
+        "title": "Gebak catering Friesland: ambachtelijk gebak voor iedere gelegenheid"
+    },
+    "/catering-met-desserts/": {
+        "old_url": "https://lahorecatering.nl/catering-met-desserts/",
+        "new_url": "/catering-met-desserts/",
+        "type": "post",
+        "id": 1815,
+        "slug": "catering-met-desserts",
+        "title": "Catering met desserts: compleet genieten van hartige gerechten en zoete verwennerij"
+    },
+    "/zoete-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/zoete-catering-friesland/",
+        "new_url": "/zoete-catering-friesland/",
+        "type": "post",
+        "id": 1812,
+        "slug": "zoete-catering-friesland",
+        "title": "Zoete catering Friesland: smaakvolle desserts voor ieder feest"
+    },
+    "/dessert-buffet-friesland/": {
+        "old_url": "https://lahorecatering.nl/dessert-buffet-friesland/",
+        "new_url": "/dessert-buffet-friesland/",
+        "type": "post",
+        "id": 1808,
+        "slug": "dessert-buffet-friesland",
+        "title": "Dessert buffet Friesland: feestelijke zoete verwennerij voor iedere gelegenheid"
+    },
+    "/borrelhapjes-catering/": {
+        "old_url": "https://lahorecatering.nl/borrelhapjes-catering/",
+        "new_url": "/borrelhapjes-catering/",
+        "type": "post",
+        "id": 1805,
+        "slug": "borrelhapjes-catering",
+        "title": "Borrelhapjes catering: smaakvolle hapjes voor iedere gelegenheid"
+    },
+    "/hapjes-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/hapjes-catering-friesland/",
+        "new_url": "/hapjes-catering-friesland/",
+        "type": "post",
+        "id": 1801,
+        "slug": "hapjes-catering-friesland",
+        "title": "Hapjes catering Friesland: smaakvolle hapjes voor ieder moment"
+    },
+    "/fingerfood-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/fingerfood-catering-friesland/",
+        "new_url": "/fingerfood-catering-friesland/",
+        "type": "post",
+        "id": 1797,
+        "slug": "fingerfood-catering-friesland",
+        "title": "Fingerfood catering Friesland – sfeervolle hapjes voor ieder evenement"
+    },
+    "/shared-dining-catering/": {
+        "old_url": "https://lahorecatering.nl/shared-dining-catering/",
+        "new_url": "/shared-dining-catering/",
+        "type": "post",
+        "id": 1794,
+        "slug": "shared-dining-catering",
+        "title": "Shared dining catering: samen genieten van een complete culinaire ervaring"
+    },
+    "/walking-dinner-friesland/": {
+        "old_url": "https://lahorecatering.nl/walking-dinner-friesland/",
+        "new_url": "/walking-dinner-friesland/",
+        "type": "post",
+        "id": 1791,
+        "slug": "walking-dinner-friesland",
+        "title": "Walking Dinner Friesland: culinair genieten op bijzondere locaties"
+    },
+    "/luxe-diners-aan-huis/": {
+        "old_url": "https://lahorecatering.nl/luxe-diners-aan-huis/",
+        "new_url": "/luxe-diners-aan-huis/",
+        "type": "post",
+        "id": 1787,
+        "slug": "luxe-diners-aan-huis",
+        "title": "Luxe Diners Aan Huis: Elegant Dining in the Comfort of Your Own Home"
+    },
+    "/buffet-kok-aan-huis/": {
+        "old_url": "https://lahorecatering.nl/buffet-kok-aan-huis/",
+        "new_url": "/buffet-kok-aan-huis/",
+        "type": "post",
+        "id": 1782,
+        "slug": "buffet-kok-aan-huis",
+        "title": "Buffet kok aan huis: Exclusieve culinaire beleving voor iedere gelegenheid"
+    },
+    "/catering-met-kok-op-locatie/": {
+        "old_url": "https://lahorecatering.nl/catering-met-kok-op-locatie/",
+        "new_url": "/catering-met-kok-op-locatie/",
+        "type": "post",
+        "id": 1779,
+        "slug": "catering-met-kok-op-locatie",
+        "title": "Catering met kok op locatie: Exclusieve culinaire beleving voor iedere gelegenheid"
+    },
+    "/mobiele-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/mobiele-catering-friesland/",
+        "new_url": "/mobiele-catering-friesland/",
+        "type": "post",
+        "id": 1776,
+        "slug": "mobiele-catering-friesland",
+        "title": "Mobiele Catering Friesland: Professionele Catering op Iedere Gewenste Locatie"
+    },
+    "/festival-food-catering/": {
+        "old_url": "https://lahorecatering.nl/festival-food-catering/",
+        "new_url": "/festival-food-catering/",
+        "type": "post",
+        "id": 1773,
+        "slug": "festival-food-catering",
+        "title": "Festival Food Catering: Professionele Catering voor Elk Festival en Evenement"
+    },
+    "/catering-voor-festival/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-festival/",
+        "new_url": "/catering-voor-festival/",
+        "type": "post",
+        "id": 1770,
+        "slug": "catering-voor-festival",
+        "title": "Catering voor festival: Professionele Festivalcatering voor Elk Evenement"
+    },
+    "/catering-voor-culturele-evenementen/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-culturele-evenementen/",
+        "new_url": "/catering-voor-culturele-evenementen/",
+        "type": "post",
+        "id": 1767,
+        "slug": "catering-voor-culturele-evenementen",
+        "title": "Catering voor culturele evenementen: Authentieke smaken voor iedere gelegenheid"
+    },
+    "/halal-eten-stiens/": {
+        "old_url": "https://lahorecatering.nl/halal-eten-stiens/",
+        "new_url": "/halal-eten-stiens/",
+        "type": "post",
+        "id": 1763,
+        "slug": "halal-eten-stiens",
+        "title": "Halal eten Stiens: Ontdek de Beste Halal Restaurants en Gerechten in Stiens"
+    },
+    "/halal-eten-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/halal-eten-leeuwarden/",
+        "new_url": "/halal-eten-leeuwarden/",
+        "type": "post",
+        "id": 1760,
+        "slug": "halal-eten-leeuwarden",
+        "title": "Halal eten Leeuwarden: De Complete Gids voor Authentieke Halal Gerechten in Leeuwarden"
+    },
+    "/halal-eten-friesland/": {
+        "old_url": "https://lahorecatering.nl/halal-eten-friesland/",
+        "new_url": "/halal-eten-friesland/",
+        "type": "post",
+        "id": 1757,
+        "slug": "halal-eten-friesland",
+        "title": "Halal eten Friesland: De Complete Gids voor Authentieke Halal Gerechten in Friesland"
+    },
+    "/beste-pakistaanse-gerechten/": {
+        "old_url": "https://lahorecatering.nl/beste-pakistaanse-gerechten/",
+        "new_url": "/beste-pakistaanse-gerechten/",
+        "type": "post",
+        "id": 1753,
+        "slug": "beste-pakistaanse-gerechten",
+        "title": "Beste Pakistaanse Gerechten: Een Complete Gids vol Authentieke Smaken en Traditionele Specialiteiten"
+    },
+    "/pakistaanse-gerechten/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-gerechten/",
+        "new_url": "/pakistaanse-gerechten/",
+        "type": "post",
+        "id": 1750,
+        "slug": "pakistaanse-gerechten",
+        "title": "Pakistaanse gerechten: Ontdek de rijke smaken van de authentieke Pakistaanse keuken"
+    },
+    "/traditionele-pakistaanse-gerechten/": {
+        "old_url": "https://lahorecatering.nl/traditionele-pakistaanse-gerechten/",
+        "new_url": "/traditionele-pakistaanse-gerechten/",
+        "type": "post",
+        "id": 1747,
+        "slug": "traditionele-pakistaanse-gerechten",
+        "title": "Traditionele Pakistaanse Gerechten: Een Complete Gids vol Authentieke Smaken en Culinaire Tradities"
+    },
+    "/authentieke-pakistaanse-keuken/": {
+        "old_url": "https://lahorecatering.nl/authentieke-pakistaanse-keuken/",
+        "new_url": "/authentieke-pakistaanse-keuken/",
+        "type": "post",
+        "id": 1744,
+        "slug": "authentieke-pakistaanse-keuken",
+        "title": "Authentieke Pakistaanse keuken: Een Culinaire Reis vol Traditie, Kruiden en Gastvrijheid"
+    },
+    "/professionele-catering-service/": {
+        "old_url": "https://lahorecatering.nl/professionele-catering-service/",
+        "new_url": "/professionele-catering-service/",
+        "type": "post",
+        "id": 1741,
+        "slug": "professionele-catering-service",
+        "title": "Professionele catering service voor iedere gelegenheid"
+    },
+    "/catering-voor-sportvereniging/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-sportvereniging/",
+        "new_url": "/catering-voor-sportvereniging/",
+        "type": "post",
+        "id": 1738,
+        "slug": "catering-voor-sportvereniging",
+        "title": "Catering voor Sportvereniging: Professionele Catering voor Elke Sportieve Gelegenheid"
+    },
+    "/catering-voor-familie-diner/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-familie-diner/",
+        "new_url": "/catering-voor-familie-diner/",
+        "type": "post",
+        "id": 1734,
+        "slug": "catering-voor-familie-diner",
+        "title": "Catering voor Familie Diner: Maak Van Iedere Familiebijeenkomst Een Onvergetelijke Ervaring"
+    },
+    "/halal-dinerbuffet/": {
+        "old_url": "https://lahorecatering.nl/halal-dinerbuffet/",
+        "new_url": "/halal-dinerbuffet/",
+        "type": "post",
+        "id": 1729,
+        "slug": "halal-dinerbuffet",
+        "title": "Halal Dinerbuffet: Authentieke Smaken voor Elke Gelegenheid"
+    },
+    "/halal-lunchbuffet/": {
+        "old_url": "https://lahorecatering.nl/halal-lunchbuffet/",
+        "new_url": "/halal-lunchbuffet/",
+        "type": "post",
+        "id": 1726,
+        "slug": "halal-lunchbuffet",
+        "title": "Halal Lunchbuffet: De Perfecte Keuze voor Elke Gelegenheid"
+    },
+    "/glutenvrije-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/glutenvrije-catering-friesland/",
+        "new_url": "/glutenvrije-catering-friesland/",
+        "type": "post",
+        "id": 1722,
+        "slug": "glutenvrije-catering-friesland",
+        "title": "Glutenvrije Catering Friesland – Veilig, Smaakvol en Professioneel voor Elke Gelegenheid"
+    },
+    "/vegan-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/vegan-catering-friesland/",
+        "new_url": "/vegan-catering-friesland/",
+        "type": "post",
+        "id": 1718,
+        "slug": "vegan-catering-friesland",
+        "title": "Vegan Catering Friesland – Duurzame Catering voor Elke Gelegenheid"
+    },
+    "/vegetarisch-buffet-friesland/": {
+        "old_url": "https://lahorecatering.nl/vegetarisch-buffet-friesland/",
+        "new_url": "/vegetarisch-buffet-friesland/",
+        "type": "post",
+        "id": 1715,
+        "slug": "vegetarisch-buffet-friesland",
+        "title": "Vegetarisch Buffet Friesland – Smaakvol, Vers en Perfect voor Elke Gelegenheid"
+    },
+    "/roti-catering-nederland/": {
+        "old_url": "https://lahorecatering.nl/roti-catering-nederland/",
+        "new_url": "/roti-catering-nederland/",
+        "type": "post",
+        "id": 1712,
+        "slug": "roti-catering-nederland",
+        "title": "Roti Catering Nederland – Authentieke Surinaams-Hindoestaanse Catering voor Elke Gelegenheid"
+    },
+    "/naan-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/naan-catering-friesland/",
+        "new_url": "/naan-catering-friesland/",
+        "type": "post",
+        "id": 1708,
+        "slug": "naan-catering-friesland",
+        "title": "Naan Catering Friesland: De Ultieme Culinaire Ervaring voor Uw Evenement"
+    },
+    "/biryani-buffet-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/biryani-buffet-leeuwarden/",
+        "new_url": "/biryani-buffet-leeuwarden/",
+        "type": "post",
+        "id": 1705,
+        "slug": "biryani-buffet-leeuwarden",
+        "title": "Biryani Buffet Leeuwarden – Authentieke Indiase en Pakistaanse Catering voor Iedere Gelegenheid"
+    },
+    "/chicken-tikka-catering/": {
+        "old_url": "https://lahorecatering.nl/chicken-tikka-catering/",
+        "new_url": "/chicken-tikka-catering/",
+        "type": "post",
+        "id": 1702,
+        "slug": "chicken-tikka-catering",
+        "title": "Chicken Tikka Catering – Authentieke Indiase Catering voor Elk Evenement"
+    },
+    "/butter-chicken-catering/": {
+        "old_url": "https://lahorecatering.nl/butter-chicken-catering/",
+        "new_url": "/butter-chicken-catering/",
+        "type": "post",
+        "id": 1699,
+        "slug": "butter-chicken-catering",
+        "title": "Butter Chicken Catering – Authentieke Indiase Catering voor Elke Gelegenheid"
+    },
+    "/karahi-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/karahi-catering-friesland/",
+        "new_url": "/karahi-catering-friesland/",
+        "type": "post",
+        "id": 1696,
+        "slug": "karahi-catering-friesland",
+        "title": "Karahi Catering Friesland – Authentieke Pakistaanse Smaak voor Elke Gelegenheid"
+    },
+    "/seekh-kebab-catering/": {
+        "old_url": "https://lahorecatering.nl/seekh-kebab-catering/",
+        "new_url": "/seekh-kebab-catering/",
+        "type": "post",
+        "id": 1693,
+        "slug": "seekh-kebab-catering",
+        "title": "Seekh Kebab Catering – Authentieke Smaakbeleving voor Elk Evenement"
+    },
+    "/chapli-kebab-catering/": {
+        "old_url": "https://lahorecatering.nl/chapli-kebab-catering/",
+        "new_url": "/chapli-kebab-catering/",
+        "type": "post",
+        "id": 1690,
+        "slug": "chapli-kebab-catering",
+        "title": "Chapli Kebab Catering: Authentieke Pakistaanse Smaak voor Elk Evenement"
+    },
+    "/tandoori-catering-nederland/": {
+        "old_url": "https://lahorecatering.nl/tandoori-catering-nederland/",
+        "new_url": "/tandoori-catering-nederland/",
+        "type": "post",
+        "id": 1687,
+        "slug": "tandoori-catering-nederland",
+        "title": "Tandoori Catering Nederland – Authentieke Indiase en Pakistaanse Smaak voor Elke Gelegenheid"
+    },
+    "/curry-buffet-friesland/": {
+        "old_url": "https://lahorecatering.nl/curry-buffet-friesland/",
+        "new_url": "/curry-buffet-friesland/",
+        "type": "post",
+        "id": 1682,
+        "slug": "curry-buffet-friesland",
+        "title": "Curry Buffet Friesland: Authentieke Smaken voor Elke Gelegenheid"
+    },
+    "/zuid-aziatische-catering/": {
+        "old_url": "https://lahorecatering.nl/zuid-aziatische-catering/",
+        "new_url": "/zuid-aziatische-catering/",
+        "type": "post",
+        "id": 1678,
+        "slug": "zuid-aziatische-catering",
+        "title": "Zuid-Aziatische catering: Authentieke smaken voor elke gelegenheid"
+    },
+    "/desi-catering-nederland/": {
+        "old_url": "https://lahorecatering.nl/desi-catering-nederland/",
+        "new_url": "/desi-catering-nederland/",
+        "type": "post",
+        "id": 1672,
+        "slug": "desi-catering-nederland",
+        "title": "Desi Catering Nederland – Authentieke Pakistaanse en Indiase Catering voor Iedere Gelegenheid"
+    },
+    "/ramadan-buffet-nederland/": {
+        "old_url": "https://lahorecatering.nl/ramadan-buffet-nederland/",
+        "new_url": "/ramadan-buffet-nederland/",
+        "type": "post",
+        "id": 1669,
+        "slug": "ramadan-buffet-nederland",
+        "title": "Ramadan Buffet Nederland: Een Sfeervolle Iftar Beleving met Authentieke Halal Gerechten"
+    },
+    "/iftar-buffet-friesland/": {
+        "old_url": "https://lahorecatering.nl/iftar-buffet-friesland/",
+        "new_url": "/iftar-buffet-friesland/",
+        "type": "post",
+        "id": 1666,
+        "slug": "iftar-buffet-friesland",
+        "title": "Iftar Buffet Friesland: Authentiek Genieten van een Luxe Ramadan Buffet"
+    },
+    "/suikerfeest-catering/": {
+        "old_url": "https://lahorecatering.nl/suikerfeest-catering/",
+        "new_url": "/suikerfeest-catering/",
+        "type": "post",
+        "id": 1663,
+        "slug": "suikerfeest-catering",
+        "title": "Suikerfeest Catering: Luxe Halal Catering voor een Onvergetelijke Eid al-Fitr Viering"
+    },
+    "/catering-voor-nieuwjaarsfeest/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-nieuwjaarsfeest/",
+        "new_url": "/catering-voor-nieuwjaarsfeest/",
+        "type": "post",
+        "id": 1660,
+        "slug": "catering-voor-nieuwjaarsfeest",
+        "title": "Catering voor nieuwjaarsfeest: feestelijk en smaakvol het nieuwe jaar beginnen"
+    },
+    "/kerstbuffet-friesland/": {
+        "old_url": "https://lahorecatering.nl/kerstbuffet-friesland/",
+        "new_url": "/kerstbuffet-friesland/",
+        "type": "post",
+        "id": 1657,
+        "slug": "kerstbuffet-friesland",
+        "title": "Kerstbuffet Friesland: Luxe Catering voor een Onvergetelijk Kerstfeest"
+    },
+    "/catering-voor-kerstfeest/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-kerstfeest/",
+        "new_url": "/catering-voor-kerstfeest/",
+        "type": "post",
+        "id": 1654,
+        "slug": "catering-voor-kerstfeest",
+        "title": "Catering voor Kerstfeest: Professional Christmas Party Catering for an Unforgettable Celebration"
+    },
+    "/catering-voor-tuinfeest/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-tuinfeest/",
+        "new_url": "/catering-voor-tuinfeest/",
+        "type": "post",
+        "id": 1651,
+        "slug": "catering-voor-tuinfeest",
+        "title": "Catering voor tuinfeest: compleet genieten van sfeervol eten in de buitenlucht"
+    },
+    "/streetfood-buffet-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/streetfood-buffet-leeuwarden/",
+        "new_url": "/streetfood-buffet-leeuwarden/",
+        "type": "post",
+        "id": 1647,
+        "slug": "streetfood-buffet-leeuwarden",
+        "title": "Streetfood buffet Leeuwarden: De Smaakvolle Beleving voor Elk Evenement"
+    },
+    "/streetfood-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/streetfood-catering-friesland/",
+        "new_url": "/streetfood-catering-friesland/",
+        "type": "post",
+        "id": 1644,
+        "slug": "streetfood-catering-friesland",
+        "title": "Streetfood catering Friesland: De Ultieme Beleving voor Elk Evenement"
+    },
+    "/wereldkeuken-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/wereldkeuken-catering-friesland/",
+        "new_url": "/wereldkeuken-catering-friesland/",
+        "type": "post",
+        "id": 1638,
+        "slug": "wereldkeuken-catering-friesland",
+        "title": "Wereldkeuken Catering Friesland – Premium International Catering for Every Occasion"
+    },
+    "/oosterse-catering-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/oosterse-catering-leeuwarden/",
+        "new_url": "/oosterse-catering-leeuwarden/",
+        "type": "post",
+        "id": 1635,
+        "slug": "oosterse-catering-leeuwarden",
+        "title": "Oosterse Catering Leeuwarden: Authentieke Smaken voor Elk Evenement"
+    },
+    "/aziatische-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/aziatische-catering-friesland/",
+        "new_url": "/aziatische-catering-friesland/",
+        "type": "post",
+        "id": 1631,
+        "slug": "aziatische-catering-friesland",
+        "title": "Aziatische Catering Friesland – Authentieke Smaken voor Elke Gelegenheid"
+    },
+    "/live-cooking-catering-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/live-cooking-catering-leeuwarden/",
+        "new_url": "/live-cooking-catering-leeuwarden/",
+        "type": "post",
+        "id": 1628,
+        "slug": "live-cooking-catering-leeuwarden",
+        "title": "Live Cooking Catering Leeuwarden: De Ultieme Cateringervaring voor Elk Evenement"
+    },
+    "/catering-met-live-cooking-friesland/": {
+        "old_url": "https://lahorecatering.nl/catering-met-live-cooking-friesland/",
+        "new_url": "/catering-met-live-cooking-friesland/",
+        "type": "post",
+        "id": 1625,
+        "slug": "catering-met-live-cooking-friesland",
+        "title": "Catering met Live Cooking Friesland: Een Onvergetelijke Culinaire Beleving op Locatie"
+    },
+    "/burger-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/burger-catering-friesland/",
+        "new_url": "/burger-catering-friesland/",
+        "type": "post",
+        "id": 1618,
+        "slug": "burger-catering-friesland",
+        "title": "Burger Catering Friesland – Premium Burger Catering voor Elk Evenement"
+    },
+    "/burger-bezorgen-stiens/": {
+        "old_url": "https://lahorecatering.nl/burger-bezorgen-stiens/",
+        "new_url": "/burger-bezorgen-stiens/",
+        "type": "post",
+        "id": 1614,
+        "slug": "burger-bezorgen-stiens",
+        "title": "Burger Bezorgen Stiens – Verse en Smaakvolle Burgers Direct Aan Huis Bezorgd"
+    },
+    "/burger-afhalen-stiens/": {
+        "old_url": "https://lahorecatering.nl/burger-afhalen-stiens/",
+        "new_url": "/burger-afhalen-stiens/",
+        "type": "post",
+        "id": 1610,
+        "slug": "burger-afhalen-stiens",
+        "title": "Burger Afhalen Stiens – De Ultieme Keuze voor Verse en Smaakvolle Burgers"
+    },
+    "/halal-burger-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/halal-burger-leeuwarden/",
+        "new_url": "/halal-burger-leeuwarden/",
+        "type": "post",
+        "id": 1606,
+        "slug": "halal-burger-leeuwarden",
+        "title": "Halal Burger Leeuwarden – De Ultieme Bestemming voor Authentieke Halal Burgers"
+    },
+    "/halal-burger-friesland/": {
+        "old_url": "https://lahorecatering.nl/halal-burger-friesland/",
+        "new_url": "/halal-burger-friesland/",
+        "type": "post",
+        "id": 1601,
+        "slug": "halal-burger-friesland",
+        "title": "Halal Burger Friesland: De Ultieme Bestemming voor Authentieke Halal Burgers"
+    },
+    "/lahore-burgers-friesland/": {
+        "old_url": "https://lahorecatering.nl/lahore-burgers-friesland/",
+        "new_url": "/lahore-burgers-friesland/",
+        "type": "post",
+        "id": 1597,
+        "slug": "lahore-burgers-friesland",
+        "title": "Lahore Burgers Friesland – De Ultieme Bestemming voor Authentieke Burgers met Pakistaanse Smaak"
+    },
+    "/lahore-burgers-stiens/": {
+        "old_url": "https://lahorecatering.nl/lahore-burgers-stiens/",
+        "new_url": "/lahore-burgers-stiens/",
+        "type": "post",
+        "id": 1593,
+        "slug": "lahore-burgers-stiens",
+        "title": "Lahore Burgers Stiens – Authentieke Pakistaanse Burgerbeleving in het Hart van Stiens"
+    },
+    "/catering-foodtruck-friesland/": {
+        "old_url": "https://lahorecatering.nl/catering-foodtruck-friesland/",
+        "new_url": "/catering-foodtruck-friesland/",
+        "type": "post",
+        "id": 1589,
+        "slug": "catering-foodtruck-friesland",
+        "title": "Catering Foodtruck Friesland – Premium Mobiele Catering voor Elk Evenement"
+    },
+    "/foodtruck-voor-bedrijfsfeest-friesland/": {
+        "old_url": "https://lahorecatering.nl/foodtruck-voor-bedrijfsfeest-friesland/",
+        "new_url": "/foodtruck-voor-bedrijfsfeest-friesland/",
+        "type": "post",
+        "id": 1583,
+        "slug": "foodtruck-voor-bedrijfsfeest-friesland",
+        "title": "Foodtruck voor Bedrijfsfeest Friesland: De Ultieme Cateringervaring voor Bedrijfsevenementen"
+    },
+    "/foodtruck-voor-bruiloft-friesland/": {
+        "old_url": "https://lahorecatering.nl/foodtruck-voor-bruiloft-friesland/",
+        "new_url": "/foodtruck-voor-bruiloft-friesland/",
+        "type": "post",
+        "id": 1579,
+        "slug": "foodtruck-voor-bruiloft-friesland",
+        "title": "Foodtruck voor Bruiloft Friesland – De Ultieme Cateringervaring voor Jullie Trouwdag"
+    },
+    "/foodtruck-stiens/": {
+        "old_url": "https://lahorecatering.nl/foodtruck-stiens/",
+        "new_url": "/foodtruck-stiens/",
+        "type": "post",
+        "id": 1572,
+        "slug": "foodtruck-stiens",
+        "title": "Foodtruck Stiens – Premium Mobiele Catering voor Elke Gelegenheid"
+    },
+    "/foodtruck-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/foodtruck-leeuwarden/",
+        "new_url": "/foodtruck-leeuwarden/",
+        "type": "post",
+        "id": 1568,
+        "slug": "foodtruck-leeuwarden",
+        "title": "Foodtruck Leeuwarden – Premium Mobiele Catering voor Elke Gelegenheid"
+    },
+    "/pakistaanse-foodtruck-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-foodtruck-friesland/",
+        "new_url": "/pakistaanse-foodtruck-friesland/",
+        "type": "post",
+        "id": 1564,
+        "slug": "pakistaanse-foodtruck-friesland",
+        "title": "Pakistaanse Foodtruck Friesland – Authentiek Pakistaans Streetfood voor Elk Evenement"
+    },
+    "/lahore-foodtruck-friesland/": {
+        "old_url": "https://lahorecatering.nl/lahore-foodtruck-friesland/",
+        "new_url": "/lahore-foodtruck-friesland/",
+        "type": "post",
+        "id": 1561,
+        "slug": "lahore-foodtruck-friesland",
+        "title": "Lahore Foodtruck Friesland – Authentieke Pakistaanse Streetfood Catering in Friesland"
+    },
+    "/hoodtruck-huren-friesland/": {
+        "old_url": "https://lahorecatering.nl/hoodtruck-huren-friesland/",
+        "new_url": "/hoodtruck-huren-friesland/",
+        "type": "post",
+        "id": 1558,
+        "slug": "hoodtruck-huren-friesland",
+        "title": "Foodtruck Huren Friesland: De Ultieme Cateringervaring voor Elk Evenement"
+    },
+    "/evenement-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/evenement-catering-friesland/",
+        "new_url": "/evenement-catering-friesland/",
+        "type": "post",
+        "id": 1554,
+        "slug": "evenement-catering-friesland",
+        "title": "Evenement Catering Friesland: Culinaire Topervaringen voor Elke Gelegenheid"
+    },
+    "/zakelijke-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/zakelijke-catering-friesland/",
+        "new_url": "/zakelijke-catering-friesland/",
+        "type": "post",
+        "id": 1551,
+        "slug": "zakelijke-catering-friesland",
+        "title": "Zakelijke Catering Friesland: Premium Cateringoplossingen voor Elke Zakelijke Gelegenheid"
+    },
+    "/catering-stiens/": {
+        "old_url": "https://lahorecatering.nl/catering-stiens/",
+        "new_url": "/catering-stiens/",
+        "type": "post",
+        "id": 1548,
+        "slug": "catering-stiens",
+        "title": "Catering Stiens – Hoogwaardige Cateringdiensten voor Onvergetelijke Evenementen"
+    },
+    "/pakistaanse-catering-stiens/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-catering-stiens/",
+        "new_url": "/pakistaanse-catering-stiens/",
+        "type": "post",
+        "id": 1544,
+        "slug": "pakistaanse-catering-stiens",
+        "title": "Pakistaanse Catering Stiens – Authentieke Smaken, Uitstekende Service en Onvergetelijke Evenementen"
+    },
+    "/pakistaanse-catering-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-catering-leeuwarden/",
+        "new_url": "/pakistaanse-catering-leeuwarden/",
+        "type": "post",
+        "id": 1540,
+        "slug": "pakistaanse-catering-leeuwarden",
+        "title": "Pakistaanse Catering Leeuwarden – Authentieke Pakistaanse Smaken voor Elke Gelegenheid"
+    },
+    "/lahore-halal-food/": {
+        "old_url": "https://lahorecatering.nl/lahore-halal-food/",
+        "new_url": "/lahore-halal-food/",
+        "type": "post",
+        "id": 1535,
+        "slug": "lahore-halal-food",
+        "title": "Lahore Halal Eten: De Ultieme Gids voor Authentiek Halal Dineren in Lahore"
+    },
+    "/lahore-burgers/": {
+        "old_url": "https://lahorecatering.nl/lahore-burgers/",
+        "new_url": "/lahore-burgers/",
+        "type": "post",
+        "id": 1531,
+        "slug": "lahore-burgers",
+        "title": "Lahore Burgers: Ontdek de Ultieme Burgerervaring in Lahore"
+    },
+    "/lahore-foodtruck/": {
+        "old_url": "https://lahorecatering.nl/lahore-foodtruck/",
+        "new_url": "/lahore-foodtruck/",
+        "type": "post",
+        "id": 1528,
+        "slug": "lahore-foodtruck",
+        "title": "Lahore Foodtruck: Authentieke Pakistaanse Streetfood op Wielen"
+    },
+    "/lahore-pakistani-cuisine/": {
+        "old_url": "https://lahorecatering.nl/lahore-pakistani-cuisine/",
+        "new_url": "/lahore-pakistani-cuisine/",
+        "type": "post",
+        "id": 1525,
+        "slug": "lahore-pakistani-cuisine",
+        "title": "Lahore Pakistaanse Keuken: Een Reis Door Authentieke Smaken en Culinaire Perfectie"
+    },
+    "/lahore-stiens-2/": {
+        "old_url": "https://lahorecatering.nl/lahore-stiens-2/",
+        "new_url": "/lahore-stiens-2/",
+        "type": "post",
+        "id": 1522,
+        "slug": "lahore-stiens-2",
+        "title": "Lahore Stiens: Een Verfijnde Culinaire Bestemming voor Authentiek Pakistaans Dineren"
+    },
+    "/lahore-stiens/": {
+        "old_url": "https://lahorecatering.nl/lahore-stiens/",
+        "new_url": "/lahore-stiens/",
+        "type": "post",
+        "id": 1519,
+        "slug": "lahore-stiens",
+        "title": "Lahore Stiens – Authentieke Pakistaanse Catering en Een Smaakvolle Culinaire Beleving"
+    },
+    "/lahore-catering-stiens/": {
+        "old_url": "https://lahorecatering.nl/lahore-catering-stiens/",
+        "new_url": "/lahore-catering-stiens/",
+        "type": "post",
+        "id": 1516,
+        "slug": "lahore-catering-stiens",
+        "title": "Lahore Catering Stiens – Authentieke Pakistaanse Catering voor Elke Gelegenheid"
+    },
+    "/lahore-catering-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/lahore-catering-leeuwarden/",
+        "new_url": "/lahore-catering-leeuwarden/",
+        "type": "post",
+        "id": 1513,
+        "slug": "lahore-catering-leeuwarden",
+        "title": "Lahore Catering Leeuwarden – Authentieke Pakistaanse Catering voor Onvergetelijke Evenementen"
+    },
+    "/lahore-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/lahore-catering-friesland/",
+        "new_url": "/lahore-catering-friesland/",
+        "type": "post",
+        "id": 1510,
+        "slug": "lahore-catering-friesland",
+        "title": "Lahore Catering Friesland – Authentieke Pakistaanse Catering voor Onvergetelijke Evenementen"
+    },
+    "/lahore-catering/": {
+        "old_url": "https://lahorecatering.nl/lahore-catering/",
+        "new_url": "/lahore-catering/",
+        "type": "post",
+        "id": 1507,
+        "slug": "lahore-catering",
+        "title": "Catering in Lahore: Premium Cateringdiensten voor Elk Evenement in Lahore"
+    },
+    "/luxe-buffet-catering-2/": {
+        "old_url": "https://lahorecatering.nl/luxe-buffet-catering-2/",
+        "new_url": "/luxe-buffet-catering-2/",
+        "type": "post",
+        "id": 1503,
+        "slug": "luxe-buffet-catering-2",
+        "title": "Luxe Buffet Catering: Til Elk Evenement Naar Een Hoger Niveau Met Exclusieve Culinaire Belevingen"
+    },
+    "/luxe-buffet-catering/": {
+        "old_url": "https://lahorecatering.nl/luxe-buffet-catering/",
+        "new_url": "/luxe-buffet-catering/",
+        "type": "post",
+        "id": 1499,
+        "slug": "luxe-buffet-catering",
+        "title": "Luxe Buffet Catering: De Ultieme Ervaring in Exclusieve Evenementencatering"
+    },
+    "/catering-voor-grote-groepen/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-grote-groepen/",
+        "new_url": "/catering-voor-grote-groepen/",
+        "type": "post",
+        "id": 1496,
+        "slug": "catering-voor-grote-groepen",
+        "title": "Catering voor Grote Groepen: Professionele Oplossingen voor Onvergetelijke Evenementen"
+    },
+    "/catering-voor-100-personen-2/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-100-personen-2/",
+        "new_url": "/catering-voor-100-personen-2/",
+        "type": "post",
+        "id": 1493,
+        "slug": "catering-voor-100-personen-2",
+        "title": "Catering voor 100 Personen: De Complete Gids voor Professionele Evenementencatering"
+    },
+    "/catering-voor-50-personen/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-50-personen/",
+        "new_url": "/catering-voor-50-personen/",
+        "type": "post",
+        "id": 1487,
+        "slug": "catering-voor-50-personen",
+        "title": "Catering voor 50 Personen: De Complete Gids voor Uitstekende Catering op Middelgrote Evenementen"
+    },
+    "/catering-prijs-aanvragen/": {
+        "old_url": "https://lahorecatering.nl/catering-prijs-aanvragen/",
+        "new_url": "/catering-prijs-aanvragen/",
+        "type": "post",
+        "id": 1479,
+        "slug": "catering-prijs-aanvragen",
+        "title": "Catering Prijs Aanvragen: De Complete Gids voor Transparante Cateringkosten en Maatwerk voor Elk Evenement"
+    },
+    "/buffet-offerte-aanvragen/": {
+        "old_url": "https://lahorecatering.nl/buffet-offerte-aanvragen/",
+        "new_url": "/buffet-offerte-aanvragen/",
+        "type": "post",
+        "id": 1475,
+        "slug": "buffet-offerte-aanvragen",
+        "title": "Buffet Offerte Aanvragen: De Complete Gids voor het Aanvragen van de Perfecte Cateringofferte"
+    },
+    "/catering-offerte-friesland/": {
+        "old_url": "https://lahorecatering.nl/catering-offerte-friesland/",
+        "new_url": "/catering-offerte-friesland/",
+        "type": "post",
+        "id": 1472,
+        "slug": "catering-offerte-friesland",
+        "title": "Catering Offerte Friesland: Hoogwaardige Cateringoplossingen voor Elke Gelegenheid"
+    },
+    "/buffet-catering-stiens/": {
+        "old_url": "https://lahorecatering.nl/buffet-catering-stiens/",
+        "new_url": "/buffet-catering-stiens/",
+        "type": "post",
+        "id": 1469,
+        "slug": "buffet-catering-stiens",
+        "title": "Buffet Catering Stiens: Professionele Catering voor Elke Gelegenheid"
+    },
+    "/buffet-catering-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/buffet-catering-leeuwarden/",
+        "new_url": "/buffet-catering-leeuwarden/",
+        "type": "post",
+        "id": 1466,
+        "slug": "buffet-catering-leeuwarden",
+        "title": "Buffetcatering Leeuwarden: Culinaire Topkwaliteit voor Elke Gelegenheid"
+    },
+    "/catering-service-friesland/": {
+        "old_url": "https://lahorecatering.nl/catering-service-friesland/",
+        "new_url": "/catering-service-friesland/",
+        "type": "post",
+        "id": 1462,
+        "slug": "catering-service-friesland",
+        "title": "Cateringservice Friesland: Uitmuntende Culinaire Belevingen voor Elke Gelegenheid"
+    },
+    "/catering-op-locatie/": {
+        "old_url": "https://lahorecatering.nl/catering-op-locatie/",
+        "new_url": "/catering-op-locatie/",
+        "type": "post",
+        "id": 1459,
+        "slug": "catering-op-locatie",
+        "title": "Catering op Locatie: Professionele Catering voor Onvergetelijke Evenementen"
+    },
+    "/catering-voor-bedrijfsfeest-2/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-bedrijfsfeest-2/",
+        "new_url": "/catering-voor-bedrijfsfeest-2/",
+        "type": "post",
+        "id": 1456,
+        "slug": "catering-voor-bedrijfsfeest-2",
+        "title": "Catering voor Bedrijfsfeest: De Complete Gids voor Uitstekende Bedrijfscatering"
+    },
+    "/catering-voor-bedrijfsfeest/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-bedrijfsfeest/",
+        "new_url": "/catering-voor-bedrijfsfeest/",
+        "type": "post",
+        "id": 1452,
+        "slug": "catering-voor-bedrijfsfeest",
+        "title": "Catering voor Bedrijfsfeest: Professionele Catering voor Onvergetelijke Zakelijke Evenementen"
+    },
+    "/catering-voor-verjaardagen/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-verjaardagen/",
+        "new_url": "/catering-voor-verjaardagen/",
+        "type": "post",
+        "id": 1449,
+        "slug": "catering-voor-verjaardagen",
+        "title": "Catering voor Verjaardagen: De Complete Gids voor een Onvergetelijk Verjaardagsfeest"
+    },
+    "/halal-bruiloft-catering/": {
+        "old_url": "https://lahorecatering.nl/halal-bruiloft-catering/",
+        "new_url": "/halal-bruiloft-catering/",
+        "type": "post",
+        "id": 1446,
+        "slug": "halal-bruiloft-catering",
+        "title": "Halal Bruiloft Catering: Luxe Halal Catering voor een Onvergetelijke Bruiloft"
+    },
+    "/bruiloft-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/bruiloft-catering-friesland/",
+        "new_url": "/bruiloft-catering-friesland/",
+        "type": "post",
+        "id": 1443,
+        "slug": "bruiloft-catering-friesland",
+        "title": "Bruiloft Catering Friesland: Exclusieve Catering voor een Onvergetelijke Bruiloft"
+    },
+    "/catering-voor-evenementen/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-evenementen/",
+        "new_url": "/catering-voor-evenementen/",
+        "type": "post",
+        "id": 1440,
+        "slug": "catering-voor-evenementen",
+        "title": "Catering voor Evenementen: Premium Catering voor Onvergetelijke Ervaringen"
+    },
+    "/catering-voor-feesten/": {
+        "old_url": "https://lahorecatering.nl/catering-voor-feesten/",
+        "new_url": "/catering-voor-feesten/",
+        "type": "post",
+        "id": 1437,
+        "slug": "catering-voor-feesten",
+        "title": "Catering voor Feesten: Premium Catering voor Onvergetelijke Evenementen"
+    },
+    "/halal-buffet-catering/": {
+        "old_url": "https://lahorecatering.nl/halal-buffet-catering/",
+        "new_url": "/halal-buffet-catering/",
+        "type": "post",
+        "id": 1432,
+        "slug": "halal-buffet-catering",
+        "title": "Halal Buffet Catering: Premium Cateringoplossingen voor Elke Gelegenheid"
+    },
+    "/pakistaanse-buffet-catering/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-buffet-catering/",
+        "new_url": "/pakistaanse-buffet-catering/",
+        "type": "post",
+        "id": 1427,
+        "slug": "pakistaanse-buffet-catering",
+        "title": "Pakistaanse Buffet Catering: Authentieke Smaken, Elegante Presentatie en Onvergetelijke Culinaire Ervaringen"
+    },
+    "/buffet-aan-huis-friesland/": {
+        "old_url": "https://lahorecatering.nl/buffet-aan-huis-friesland/",
+        "new_url": "/buffet-aan-huis-friesland/",
+        "type": "post",
+        "id": 1424,
+        "slug": "buffet-aan-huis-friesland",
+        "title": "Buffet aan Huis Friesland – Premium Catering voor Elke Gelegenheid"
+    },
+    "/halal-restaurant-stiens/": {
+        "old_url": "https://lahorecatering.nl/halal-restaurant-stiens/",
+        "new_url": "/halal-restaurant-stiens/",
+        "type": "post",
+        "id": 1420,
+        "slug": "halal-restaurant-stiens",
+        "title": "Halal Restaurant Stiens – Authentieke Halal Eetervaring in het Hart van Friesland"
+    },
+    "/pakistaans-restaurant-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-restaurant-friesland/",
+        "new_url": "/pakistaans-restaurant-friesland/",
+        "type": "post",
+        "id": 1417,
+        "slug": "pakistaans-restaurant-friesland",
+        "title": "Pakistaans Restaurant Friesland: Authentieke Pakistaanse Smaken in het Hart van Friesland"
+    },
+    "/buffet-stiens-2/": {
+        "old_url": "https://lahorecatering.nl/buffet-stiens-2/",
+        "new_url": "/buffet-stiens-2/",
+        "type": "post",
+        "id": 1414,
+        "slug": "buffet-stiens-2",
+        "title": "Buffet Stiens: De Ultieme Bestemming voor Een Uitstekende Culinaire Ervaring"
+    },
+    "/catering-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/catering-leeuwarden/",
+        "new_url": "/catering-leeuwarden/",
+        "type": "post",
+        "id": 1409,
+        "slug": "catering-leeuwarden",
+        "title": "Catering Leeuwarden: Professionele Catering voor Elke Gelegenheid"
+    },
+    "/halal-buffet-friesland/": {
+        "old_url": "https://lahorecatering.nl/halal-buffet-friesland/",
+        "new_url": "/halal-buffet-friesland/",
+        "type": "post",
+        "id": 1406,
+        "slug": "halal-buffet-friesland",
+        "title": "Halal Buffet Friesland: Geniet van Authentiek Halal Dineren in het Hart van Friesland"
+    },
+    "/pakistaans-eten-stiens/": {
+        "old_url": "https://lahorecatering.nl/pakistaans-eten-stiens/",
+        "new_url": "/pakistaans-eten-stiens/",
+        "type": "post",
+        "id": 1402,
+        "slug": "pakistaans-eten-stiens",
+        "title": "Pakistaans Eten Stiens: Authentieke Pakistaanse Smaken in het Hart van Friesland"
+    },
+    "/authentieke-pakistaanse-catering/": {
+        "old_url": "https://lahorecatering.nl/authentieke-pakistaanse-catering/",
+        "new_url": "/authentieke-pakistaanse-catering/",
+        "type": "post",
+        "id": 1398,
+        "slug": "authentieke-pakistaanse-catering",
+        "title": "Authentieke Pakistaanse Catering: Een Complete Culinaire Beleving voor Onvergetelijke Evenementen"
+    },
+    "/buffet-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/buffet-catering-friesland/",
+        "new_url": "/buffet-catering-friesland/",
+        "type": "post",
+        "id": 1392,
+        "slug": "buffet-catering-friesland",
+        "title": "Buffetcatering Friesland: Professionele Catering voor Elke Gelegenheid"
+    },
+    "/pakistaanse-catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/pakistaanse-catering-friesland/",
+        "new_url": "/pakistaanse-catering-friesland/",
+        "type": "post",
+        "id": 1389,
+        "slug": "pakistaanse-catering-friesland",
+        "title": "Pakistaanse Catering Friesland: Authentieke Pakistaanse Keuken voor Onvergetelijke Evenementen"
+    },
+    "/tips-voor-het-kiezen-van-een-goede-cateringservice/": {
+        "old_url": "https://lahorecatering.nl/tips-voor-het-kiezen-van-een-goede-cateringservice/",
+        "new_url": "/tips-voor-het-kiezen-van-een-goede-cateringservice/",
+        "type": "post",
+        "id": 1113,
+        "slug": "tips-voor-het-kiezen-van-een-goede-cateringservice",
+        "title": "Tips voor het kiezen van een goede cateringservice"
+    },
+    "/horecadiensten-in-friesland/": {
+        "old_url": "https://lahorecatering.nl/horecadiensten-in-friesland/",
+        "new_url": "/horecadiensten-in-friesland/",
+        "type": "post",
+        "id": 1108,
+        "slug": "horecadiensten-in-friesland",
+        "title": "Horecadiensten in Friesland"
+    },
+    "/lahore-catering-in-stiens/": {
+        "old_url": "https://lahorecatering.nl/lahore-catering-in-stiens/",
+        "new_url": "/lahore-catering-in-stiens/",
+        "type": "post",
+        "id": 1100,
+        "slug": "lahore-catering-in-stiens",
+        "title": "Spring Catering Ideas"
+    },
+    "/lahore-catering-in-friesland/": {
+        "old_url": "https://lahorecatering.nl/lahore-catering-in-friesland/",
+        "new_url": "/lahore-catering-in-friesland/",
+        "type": "post",
+        "id": 1098,
+        "slug": "lahore-catering-in-friesland",
+        "title": "Hoe u de dieetbeperkingen van uw trouwe gasten kunt onderhouden"
+    },
+    "/goedekoop-bruiloft-catering-in-friesland/": {
+        "old_url": "https://lahorecatering.nl/goedekoop-bruiloft-catering-in-friesland/",
+        "new_url": "/goedekoop-bruiloft-catering-in-friesland/",
+        "type": "post",
+        "id": 1093,
+        "slug": "goedekoop-bruiloft-catering-in-friesland",
+        "title": "Hoe krijg ik een geweldige bruiloft catering (voor goedkoop)"
+    },
+    "/catering-bedrijven/": {
+        "old_url": "https://lahorecatering.nl/catering-bedrijven/",
+        "new_url": "/catering-bedrijven/",
+        "type": "post",
+        "id": 1090,
+        "slug": "catering-bedrijven",
+        "title": "Hoeveel voedsel om een ​​groep te dienen"
+    },
+    "/goedekoop-catering/": {
+        "old_url": "https://lahorecatering.nl/goedekoop-catering/",
+        "new_url": "/goedekoop-catering/",
+        "type": "post",
+        "id": 1087,
+        "slug": "goedekoop-catering",
+        "title": "Een Lahore-cateringmenu vol opties"
+    },
+    "/buffet-catering-menu/": {
+        "old_url": "https://lahorecatering.nl/buffet-catering-menu/",
+        "new_url": "/buffet-catering-menu/",
+        "type": "post",
+        "id": 1084,
+        "slug": "buffet-catering-menu",
+        "title": "Last Minute Party Planning Catering Tips?"
+    },
+    "/indisch-restaurant-friesland/": {
+        "old_url": "https://lahorecatering.nl/indisch-restaurant-friesland/",
+        "new_url": "/indisch-restaurant-friesland/",
+        "type": "post",
+        "id": 1078,
+        "slug": "indisch-restaurant-friesland",
+        "title": "Zes zonden die je moet vermijden tijdens een diner in een Indiaas restaurant"
+    },
+    "/horecadiensten-voor-bedrijven/": {
+        "old_url": "https://lahorecatering.nl/horecadiensten-voor-bedrijven/",
+        "new_url": "/horecadiensten-voor-bedrijven/",
+        "type": "post",
+        "id": 1073,
+        "slug": "horecadiensten-voor-bedrijven",
+        "title": "Horecadiensten voor bedrijven"
+    },
+    "/hoe-de-beste-cateringservice-te-kiezen/": {
+        "old_url": "https://lahorecatering.nl/hoe-de-beste-cateringservice-te-kiezen/",
+        "new_url": "/hoe-de-beste-cateringservice-te-kiezen/",
+        "type": "post",
+        "id": 1068,
+        "slug": "hoe-de-beste-cateringservice-te-kiezen",
+        "title": "Hoe de beste cateringservice te kiezen"
+    },
+    "/wat-zijn-de-beste-eigenschappen-van-een-cateringservice/": {
+        "old_url": "https://lahorecatering.nl/wat-zijn-de-beste-eigenschappen-van-een-cateringservice/",
+        "new_url": "/wat-zijn-de-beste-eigenschappen-van-een-cateringservice/",
+        "type": "post",
+        "id": 1062,
+        "slug": "wat-zijn-de-beste-eigenschappen-van-een-cateringservice",
+        "title": "Wat zijn de beste eigenschappen van een cateringservice"
+    },
+    "/historische-en-mooie-steden-in-nederland-en-eten/": {
+        "old_url": "https://lahorecatering.nl/historische-en-mooie-steden-in-nederland-en-eten/",
+        "new_url": "/historische-en-mooie-steden-in-nederland-en-eten/",
+        "type": "post",
+        "id": 1059,
+        "slug": "historische-en-mooie-steden-in-nederland-en-eten",
+        "title": "Historische en mooie steden in Nederland en eten"
+    },
+    "/de-goedkope-cateringdiensten/": {
+        "old_url": "https://lahorecatering.nl/de-goedkope-cateringdiensten/",
+        "new_url": "/de-goedkope-cateringdiensten/",
+        "type": "post",
+        "id": 1057,
+        "slug": "de-goedkope-cateringdiensten",
+        "title": "De goedkope cateringdiensten"
+    },
+    "/een-professioneel-cateringbedrijf/": {
+        "old_url": "https://lahorecatering.nl/een-professioneel-cateringbedrijf/",
+        "new_url": "/een-professioneel-cateringbedrijf/",
+        "type": "post",
+        "id": 1055,
+        "slug": "een-professioneel-cateringbedrijf",
+        "title": "Een professioneel cateringbedrijf"
+    },
+    "/betaalbaar-horecabedrijf-voor-bruiloft/": {
+        "old_url": "https://lahorecatering.nl/betaalbaar-horecabedrijf-voor-bruiloft/",
+        "new_url": "/betaalbaar-horecabedrijf-voor-bruiloft/",
+        "type": "post",
+        "id": 1052,
+        "slug": "betaalbaar-horecabedrijf-voor-bruiloft",
+        "title": "Betaalbaar horecabedrijf voor bruiloft"
+    },
+    "/beste-bruiloft-horecadiensten/": {
+        "old_url": "https://lahorecatering.nl/beste-bruiloft-horecadiensten/",
+        "new_url": "/beste-bruiloft-horecadiensten/",
+        "type": "post",
+        "id": 1050,
+        "slug": "beste-bruiloft-horecadiensten",
+        "title": "Beste bruiloft horecadiensten"
+    },
+    "/het-inhuren-van-de-cateringservice/": {
+        "old_url": "https://lahorecatering.nl/het-inhuren-van-de-cateringservice/",
+        "new_url": "/het-inhuren-van-de-cateringservice/",
+        "type": "post",
+        "id": 1046,
+        "slug": "het-inhuren-van-de-cateringservice",
+        "title": "Het inhuren van de cateringservice"
+    },
+    "/buffet-catering-is-voor-iedereen/": {
+        "old_url": "https://lahorecatering.nl/buffet-catering-is-voor-iedereen/",
+        "new_url": "/buffet-catering-is-voor-iedereen/",
+        "type": "post",
+        "id": 1042,
+        "slug": "buffet-catering-is-voor-iedereen",
+        "title": "Buffet catering is voor iedereen"
+    },
+    "/eten-op-wielen/": {
+        "old_url": "https://lahorecatering.nl/eten-op-wielen/",
+        "new_url": "/eten-op-wielen/",
+        "type": "post",
+        "id": 1039,
+        "slug": "eten-op-wielen",
+        "title": "Eten Op Wielen"
+    },
+    "/de-beste-horecadiensten-in-friesland/": {
+        "old_url": "https://lahorecatering.nl/de-beste-horecadiensten-in-friesland/",
+        "new_url": "/de-beste-horecadiensten-in-friesland/",
+        "type": "post",
+        "id": 1035,
+        "slug": "de-beste-horecadiensten-in-friesland",
+        "title": "De beste horecadiensten in Friesland"
+    },
+    "/alles-over-online-eten/": {
+        "old_url": "https://lahorecatering.nl/alles-over-online-eten/",
+        "new_url": "/alles-over-online-eten/",
+        "type": "post",
+        "id": 1032,
+        "slug": "alles-over-online-eten",
+        "title": "Alles over online eten"
+    },
+    "/buffet-catering-is-een-magic-service/": {
+        "old_url": "https://lahorecatering.nl/buffet-catering-is-een-magic-service/",
+        "new_url": "/buffet-catering-is-een-magic-service/",
+        "type": "post",
+        "id": 1029,
+        "slug": "buffet-catering-is-een-magic-service",
+        "title": "Buffet Catering is een Magic Service"
+    },
+    "/hoe-de-beste-cateringbedrijven-uw-evenement-onvergetelijk-maken/": {
+        "old_url": "https://lahorecatering.nl/hoe-de-beste-cateringbedrijven-uw-evenement-onvergetelijk-maken/",
+        "new_url": "/hoe-de-beste-cateringbedrijven-uw-evenement-onvergetelijk-maken/",
+        "type": "post",
+        "id": 1027,
+        "slug": "hoe-de-beste-cateringbedrijven-uw-evenement-onvergetelijk-maken",
+        "title": "Hoe de beste cateringbedrijven uw evenement onvergetelijk maken"
+    },
+    "/online-eten-is-geweldig/": {
+        "old_url": "https://lahorecatering.nl/online-eten-is-geweldig/",
+        "new_url": "/online-eten-is-geweldig/",
+        "type": "post",
+        "id": 1021,
+        "slug": "online-eten-is-geweldig",
+        "title": "Online Eten Is Geweldig"
+    },
+    "/dit-is-waarom-je-buffetcatering-moet-huren/": {
+        "old_url": "https://lahorecatering.nl/dit-is-waarom-je-buffetcatering-moet-huren/",
+        "new_url": "/dit-is-waarom-je-buffetcatering-moet-huren/",
+        "type": "post",
+        "id": 1018,
+        "slug": "dit-is-waarom-je-buffetcatering-moet-huren",
+        "title": "Dit Is Waarom Je Buffetcatering Moet Huren"
+    },
+    "/hoe-een-foodtruckbedrijf-te-creeren/": {
+        "old_url": "https://lahorecatering.nl/hoe-een-foodtruckbedrijf-te-creeren/",
+        "new_url": "/hoe-een-foodtruckbedrijf-te-creeren/",
+        "type": "post",
+        "id": 1014,
+        "slug": "hoe-een-foodtruckbedrijf-te-creeren",
+        "title": "Hoe een foodtruckbedrijf te creëren"
+    },
+    "/de-horecadiensten-online/": {
+        "old_url": "https://lahorecatering.nl/de-horecadiensten-online/",
+        "new_url": "/de-horecadiensten-online/",
+        "type": "post",
+        "id": 1011,
+        "slug": "de-horecadiensten-online",
+        "title": "De Horecadiensten Online"
+    },
+    "/foodtrucks-integreren-met-privecatering/": {
+        "old_url": "https://lahorecatering.nl/foodtrucks-integreren-met-privecatering/",
+        "new_url": "/foodtrucks-integreren-met-privecatering/",
+        "type": "post",
+        "id": 1002,
+        "slug": "foodtrucks-integreren-met-privecatering",
+        "title": "Foodtrucks integreren met privécatering"
+    },
+    "/de-cateringservice-die-absoluut-bij-u-past/": {
+        "old_url": "https://lahorecatering.nl/de-cateringservice-die-absoluut-bij-u-past/",
+        "new_url": "/de-cateringservice-die-absoluut-bij-u-past/",
+        "type": "post",
+        "id": 998,
+        "slug": "de-cateringservice-die-absoluut-bij-u-past",
+        "title": "De Cateringservice Die Absoluut Bij U Past"
+    },
+    "/uw-thuiswerk-voor-het-inhuren-van-catering-service/": {
+        "old_url": "https://lahorecatering.nl/uw-thuiswerk-voor-het-inhuren-van-catering-service/",
+        "new_url": "/uw-thuiswerk-voor-het-inhuren-van-catering-service/",
+        "type": "post",
+        "id": 995,
+        "slug": "uw-thuiswerk-voor-het-inhuren-van-catering-service",
+        "title": "Uw Thuiswerk Voor Het Inhuren Van Catering Service"
+    },
+    "/feestmaaltijden-in-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/feestmaaltijden-in-leeuwarden/",
+        "new_url": "/feestmaaltijden-in-leeuwarden/",
+        "type": "post",
+        "id": 988,
+        "slug": "feestmaaltijden-in-leeuwarden",
+        "title": "Feestmaaltijden in Leeuwarden."
+    },
+    "/foodtruck-in-friesland/": {
+        "old_url": "https://lahorecatering.nl/foodtruck-in-friesland/",
+        "new_url": "/foodtruck-in-friesland/",
+        "type": "post",
+        "id": 984,
+        "slug": "foodtruck-in-friesland",
+        "title": "Foodtruck in friesland"
+    },
+    "/buffet-catering/": {
+        "old_url": "https://lahorecatering.nl/buffet-catering/",
+        "new_url": "/buffet-catering/",
+        "type": "post",
+        "id": 980,
+        "slug": "buffet-catering",
+        "title": "Buffet Catering."
+    },
+    "/bestel-indiaans-en-pakistaans-eten-online/": {
+        "old_url": "https://lahorecatering.nl/bestel-indiaans-en-pakistaans-eten-online/",
+        "new_url": "/bestel-indiaans-en-pakistaans-eten-online/",
+        "type": "post",
+        "id": 975,
+        "slug": "bestel-indiaans-en-pakistaans-eten-online",
+        "title": "Bestel Indiaans en Pakistaans Eten Online"
+    },
+    "/catering-friesland/": {
+        "old_url": "https://lahorecatering.nl/catering-friesland/",
+        "new_url": "/catering-friesland/",
+        "type": "post",
+        "id": 971,
+        "slug": "catering-friesland",
+        "title": "Catering Friesland"
+    },
+    "/indiaanse-en-pakistaanse-catering/": {
+        "old_url": "https://lahorecatering.nl/indiaanse-en-pakistaanse-catering/",
+        "new_url": "/indiaanse-en-pakistaanse-catering/",
+        "type": "post",
+        "id": 966,
+        "slug": "indiaanse-en-pakistaanse-catering",
+        "title": "Indiaanse en Pakistaanse catering"
+    },
+    "/catering-en-event-management-services/": {
+        "old_url": "https://lahorecatering.nl/catering-en-event-management-services/",
+        "new_url": "/catering-en-event-management-services/",
+        "type": "post",
+        "id": 960,
+        "slug": "catering-en-event-management-services",
+        "title": "Catering en Event Management Services"
+    },
+    "/outdoor-catering-services/": {
+        "old_url": "https://lahorecatering.nl/outdoor-catering-services/",
+        "new_url": "/outdoor-catering-services/",
+        "type": "post",
+        "id": 954,
+        "slug": "outdoor-catering-services",
+        "title": "Outdoor Catering Services"
+    },
+    "/de-indiaas-caterars-in-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/de-indiaas-caterars-in-leeuwarden/",
+        "new_url": "/de-indiaas-caterars-in-leeuwarden/",
+        "type": "post",
+        "id": 947,
+        "slug": "de-indiaas-caterars-in-leeuwarden",
+        "title": "De Indiaas Caterars in Leeuwarden"
+    },
+    "/hoe-u-het-juiste-type-corporate-cateringdiensten-selecteert/": {
+        "old_url": "https://lahorecatering.nl/hoe-u-het-juiste-type-corporate-cateringdiensten-selecteert/",
+        "new_url": "/hoe-u-het-juiste-type-corporate-cateringdiensten-selecteert/",
+        "type": "post",
+        "id": 930,
+        "slug": "hoe-u-het-juiste-type-corporate-cateringdiensten-selecteert",
+        "title": "Hoe u het juiste type corporate cateringdiensten selecteert"
+    },
+    "/de-catering-service-in-leeuwarden-2/": {
+        "old_url": "https://lahorecatering.nl/de-catering-service-in-leeuwarden-2/",
+        "new_url": "/de-catering-service-in-leeuwarden-2/",
+        "type": "post",
+        "id": 916,
+        "slug": "de-catering-service-in-leeuwarden-2",
+        "title": "De Catering service in Leeuwarden"
+    },
+    "/indiaas-caterar-in-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/indiaas-caterar-in-leeuwarden/",
+        "new_url": "/indiaas-caterar-in-leeuwarden/",
+        "type": "post",
+        "id": 920,
+        "slug": "indiaas-caterar-in-leeuwarden",
+        "title": "Indiaas Caterar in Leeuwarden"
+    },
+    "/de-catering-service-in-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/de-catering-service-in-leeuwarden/",
+        "new_url": "/de-catering-service-in-leeuwarden/",
+        "type": "post",
+        "id": 917,
+        "slug": "de-catering-service-in-leeuwarden",
+        "title": "De Catering Service In Leeuwarden"
+    },
+    "/het-kiezen-van-de-juiste-cateringdiensten/": {
+        "old_url": "https://lahorecatering.nl/het-kiezen-van-de-juiste-cateringdiensten/",
+        "new_url": "/het-kiezen-van-de-juiste-cateringdiensten/",
+        "type": "post",
+        "id": 913,
+        "slug": "het-kiezen-van-de-juiste-cateringdiensten",
+        "title": "Het kiezen van de juiste cateringdiensten"
+    },
+    "/indiase-en-aziatische-bruiloft-horecabedrijven/": {
+        "old_url": "https://lahorecatering.nl/indiase-en-aziatische-bruiloft-horecabedrijven/",
+        "new_url": "/indiase-en-aziatische-bruiloft-horecabedrijven/",
+        "type": "post",
+        "id": 908,
+        "slug": "indiase-en-aziatische-bruiloft-horecabedrijven",
+        "title": "Indiase en Aziatische bruiloft horecabedrijven"
+    },
+    "/voor-de-beste-catering/": {
+        "old_url": "https://lahorecatering.nl/voor-de-beste-catering/",
+        "new_url": "/voor-de-beste-catering/",
+        "type": "post",
+        "id": 904,
+        "slug": "voor-de-beste-catering",
+        "title": "Voor de beste catering"
+    },
+    "/cateringdiensten-inhuren/": {
+        "old_url": "https://lahorecatering.nl/cateringdiensten-inhuren/",
+        "new_url": "/cateringdiensten-inhuren/",
+        "type": "post",
+        "id": 898,
+        "slug": "cateringdiensten-inhuren",
+        "title": "Cateringdiensten inhuren"
+    },
+    "/kies-de-juiste-cateringservice-voor-uw-fondsenwervende-evenement/": {
+        "old_url": "https://lahorecatering.nl/kies-de-juiste-cateringservice-voor-uw-fondsenwervende-evenement/",
+        "new_url": "/kies-de-juiste-cateringservice-voor-uw-fondsenwervende-evenement/",
+        "type": "post",
+        "id": 888,
+        "slug": "kies-de-juiste-cateringservice-voor-uw-fondsenwervende-evenement",
+        "title": "Kies de juiste cateringservice voor uw fondsenwervende evenement"
+    },
+    "/cateringideeen-5-tips-voor-het-plannen-van-een-menu-voor-uw-cateringevenement/": {
+        "old_url": "https://lahorecatering.nl/cateringideeen-5-tips-voor-het-plannen-van-een-menu-voor-uw-cateringevenement/",
+        "new_url": "/cateringideeen-5-tips-voor-het-plannen-van-een-menu-voor-uw-cateringevenement/",
+        "type": "post",
+        "id": 884,
+        "slug": "cateringideeen-5-tips-voor-het-plannen-van-een-menu-voor-uw-cateringevenement",
+        "title": "Cateringideeën 5 tips voor het plannen van een menu voor uw cateringevenement"
+    },
+    "/een-cateraar-kiezen/": {
+        "old_url": "https://lahorecatering.nl/een-cateraar-kiezen/",
+        "new_url": "/een-cateraar-kiezen/",
+        "type": "post",
+        "id": 881,
+        "slug": "een-cateraar-kiezen",
+        "title": "Een cateraar kiezen"
+    },
+    "/planningstips-voor-bruiloft-en-evenementen/": {
+        "old_url": "https://lahorecatering.nl/planningstips-voor-bruiloft-en-evenementen/",
+        "new_url": "/planningstips-voor-bruiloft-en-evenementen/",
+        "type": "post",
+        "id": 872,
+        "slug": "planningstips-voor-bruiloft-en-evenementen",
+        "title": "Planningstips voor bruiloft en evenementen"
+    },
+    "/aziatisch-eten-in-leeuwarden/": {
+        "old_url": "https://lahorecatering.nl/aziatisch-eten-in-leeuwarden/",
+        "new_url": "/aziatisch-eten-in-leeuwarden/",
+        "type": "post",
+        "id": 783,
+        "slug": "aziatisch-eten-in-leeuwarden",
+        "title": "Tips om goede Pakistaanse catering te vinden"
+    },
+    "/category/geen-categorie/blog/": {
+        "old_url": "https://lahorecatering.nl/category/geen-categorie/blog/",
+        "new_url": "/category/geen-categorie/blog/",
+        "type": "category",
+        "id": 58,
+        "slug": "blog",
+        "title": "Blog"
+    },
+    "/category/geen-categorie/": {
+        "old_url": "https://lahorecatering.nl/category/geen-categorie/",
+        "new_url": "/category/geen-categorie/",
+        "type": "category",
+        "id": 1,
+        "slug": "geen-categorie",
+        "title": "Geen categorie"
+    },
+    "/category/uncategorized/": {
+        "old_url": "https://lahorecatering.nl/category/uncategorized/",
+        "new_url": "/category/uncategorized/",
+        "type": "category",
+        "id": 17,
+        "slug": "uncategorized",
+        "title": "Uncategorized"
+    }
+}

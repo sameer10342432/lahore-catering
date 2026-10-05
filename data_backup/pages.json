@@ -1,0 +1,3226 @@
+[
+    {
+        "id": 1359,
+        "date": "2026-03-04T09:17:45",
+        "date_gmt": "2026-03-04T09:17:45",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1359"
+        },
+        "modified": "2026-04-10T10:58:40",
+        "modified_gmt": "2026-04-10T10:58:40",
+        "slug": "order-food-leeuwarden",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/order-food-leeuwarden\/",
+        "title": {
+            "rendered": "Order Food Leeuwarden"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 10,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1359",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-1",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1359",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1359"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1359\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1371,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1359\/revisions\/1371"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1359"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 10,
+                    "name": "Sides Horeca",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/sides\/",
+                    "slug": "sides",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 1356,
+        "date": "2026-03-04T09:14:55",
+        "date_gmt": "2026-03-04T09:14:55",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1356"
+        },
+        "modified": "2026-04-10T11:01:24",
+        "modified_gmt": "2026-04-10T11:01:24",
+        "slug": "halal-catering-friesland",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/halal-catering-friesland\/",
+        "title": {
+            "rendered": "Halal Catering Friesland"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 10,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1356",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-2",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1356",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1356"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1356\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1357,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1356\/revisions\/1357"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1356"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 10,
+                    "name": "Sides Horeca",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/sides\/",
+                    "slug": "sides",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 1353,
+        "date": "2026-03-04T09:10:51",
+        "date_gmt": "2026-03-04T09:10:51",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1353"
+        },
+        "modified": "2026-04-10T11:10:51",
+        "modified_gmt": "2026-04-10T11:10:51",
+        "slug": "pakistani-restaurant-leeuwarden",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/pakistani-restaurant-leeuwarden\/",
+        "title": {
+            "rendered": "Pakistani Restaurant Leeuwarden"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 10,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1353",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-3",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1353",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1353"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1353\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1376,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1353\/revisions\/1376"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1353"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 10,
+                    "name": "Sides Horeca",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/sides\/",
+                    "slug": "sides",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 1349,
+        "date": "2026-03-04T08:09:05",
+        "date_gmt": "2026-03-04T08:09:05",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1349"
+        },
+        "modified": "2026-04-10T10:50:03",
+        "modified_gmt": "2026-04-10T10:50:03",
+        "slug": "takeaway-and-delivery-stiens",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/takeaway-and-delivery-stiens\/",
+        "title": {
+            "rendered": "Takeaway and Delivery Stiens"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 10,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1349",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-4",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1349",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1349"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1349\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1368,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1349\/revisions\/1368"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1349"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 10,
+                    "name": "Sides Horeca",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/sides\/",
+                    "slug": "sides",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 1346,
+        "date": "2026-03-04T07:58:54",
+        "date_gmt": "2026-03-04T07:58:54",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1346"
+        },
+        "modified": "2026-04-10T11:02:17",
+        "modified_gmt": "2026-04-10T11:02:17",
+        "slug": "halal-restaurant-friesland",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/halal-restaurant-friesland\/",
+        "title": {
+            "rendered": "Halal Restaurant Friesland"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 10,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1346",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-5",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1346",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1346"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1346\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1347,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1346\/revisions\/1347"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1346"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 10,
+                    "name": "Sides Horeca",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/sides\/",
+                    "slug": "sides",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 1320,
+        "date": "2026-03-04T06:41:47",
+        "date_gmt": "2026-03-04T06:41:47",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1320"
+        },
+        "modified": "2026-04-10T10:53:11",
+        "modified_gmt": "2026-04-10T10:53:11",
+        "slug": "buffet-restaurant-friesland",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/buffet-restaurant-friesland\/",
+        "title": {
+            "rendered": "Buffet restaurant Friesland"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 10,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1320",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-6",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1320",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1320"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1320\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1322,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1320\/revisions\/1322"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1320"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 10,
+                    "name": "Sides Horeca",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/sides\/",
+                    "slug": "sides",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/c8da45d8b68c0848c2d0eec105f4e02ffb11e583e1994c5dd502da41c93a41b3?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/10",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 1313,
+        "date": "2026-02-12T08:02:01",
+        "date_gmt": "2026-02-12T08:02:01",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1313"
+        },
+        "modified": "2026-10-03T13:29:56",
+        "modified_gmt": "2026-10-03T13:29:56",
+        "slug": "buffet",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/buffet\/",
+        "title": {
+            "rendered": "De Molen – Pakistaans Buffet"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 5,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1313",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-7",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1313",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/5"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1313"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1313\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 2134,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1313\/revisions\/2134"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1313"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 5,
+                    "name": "Compion Support",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/compion-support\/",
+                    "slug": "compion-support",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/28b7a04ad53be10d9c4c635309be903192718958e0016c3e2911ff3cac9e722b?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/28b7a04ad53be10d9c4c635309be903192718958e0016c3e2911ff3cac9e722b?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/28b7a04ad53be10d9c4c635309be903192718958e0016c3e2911ff3cac9e722b?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/5",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 1311,
+        "date": "2026-02-12T07:59:31",
+        "date_gmt": "2026-02-12T07:59:31",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1311"
+        },
+        "modified": "2026-04-10T10:54:58",
+        "modified_gmt": "2026-04-10T10:54:58",
+        "slug": "catering",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/catering\/",
+        "title": {
+            "rendered": "Catering"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 5,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1311",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-8",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1311",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/5"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1311"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1311\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1312,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1311\/revisions\/1312"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1311"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 5,
+                    "name": "Compion Support",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/compion-support\/",
+                    "slug": "compion-support",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/28b7a04ad53be10d9c4c635309be903192718958e0016c3e2911ff3cac9e722b?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/28b7a04ad53be10d9c4c635309be903192718958e0016c3e2911ff3cac9e722b?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/28b7a04ad53be10d9c4c635309be903192718958e0016c3e2911ff3cac9e722b?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/5",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 1166,
+        "date": "2020-10-12T06:17:34",
+        "date_gmt": "2020-10-12T06:17:34",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1166"
+        },
+        "modified": "2026-04-10T11:12:51",
+        "modified_gmt": "2026-04-10T11:12:51",
+        "slug": "test",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/test\/",
+        "title": {
+            "rendered": "testmenu"
+        },
+        "content": {
+            "rendered": "<span class=\"glf-button-default glf-button \" style='background-color:#ef8b17; color:#FFFFFF !important; font-weight:bold; font-size:18px; padding:15px; border-radius:3px; font-family:\"Arial\", sans-serif; '  data-glf-cuid=\"\" data-glf-ruid=\"19cfad1c-0b7d-483a-aebc-f347a34a3a13\"  data-location=\"19cfad1c-0b7d-483a-aebc-f347a34a3a13\">Bestel online<\/span><script src=\"https:\/\/www.fbgcdn.com\/embedder\/js\/ewm2.js\" defer async ><\/script><style> .glf-ordering-location > span{display:none;} <\/style>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1166",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-9",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1166",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1166"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1166\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1173,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1166\/revisions\/1173"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1166"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 1155,
+        "date": "2020-07-14T11:58:29",
+        "date_gmt": "2020-07-14T11:58:29",
+        "guid": {
+            "rendered": "https:\/\/lahorecatering.nl\/?page_id=1155"
+        },
+        "modified": "2026-04-10T11:00:17",
+        "modified_gmt": "2026-04-10T11:00:17",
+        "slug": "food-truck",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/food-truck\/",
+        "title": {
+            "rendered": "Food truck"
+        },
+        "content": {
+            "rendered": "<p><strong>Integer lacinia mattis lacus, quis accumsan metus. Suspendisse ac massa at dui interdum mattis. Aliquam sed lectus odio. Donec consectetur interdum orci nec auctor. Aliquam varius, enim ac tempus dictum, ligula lacus sodales eros, sit amet feugiat erat risus et mi.<\/strong><\/p>\n<p>Ut consequat nibh sit amet dictum euismod. Integer feugiat dignissim pharetra. Phasellus quis rhoncus nunc. Duis aliquet neque nisi, vitae feugiat leo aliquet sed. Vestibulum malesuada sollicitudin quam, nec accumsan nisi viverra nec. Phasellus ut imperdiet nibh. Ut eu accumsan libero. Nam lobortis placerat ante, in pellentesque tortor maximus id. Morbi lobortis scelerisque venenatis.<\/p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"size-large wp-image-1159 aligncenter\" src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-1024x576.jpg\" alt=\"\" width=\"726\" height=\"408\" srcset=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-1024x576.jpg 1024w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-300x169.jpg 300w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-768x432.jpg 768w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-1536x864.jpg 1536w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-2048x1152.jpg 2048w\" sizes=\"auto, (max-width: 726px) 100vw, 726px\" \/><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p><strong>Integer lacinia mattis lacus, quis accumsan metus. Suspendisse ac massa at dui interdum mattis. Aliquam sed lectus odio. Donec consectetur interdum orci nec auctor. Aliquam varius, enim ac tempus dictum,…<\/p>\n<p> <a class=\"btn btn-default\" href=\"https:\/\/lahorecatering.nl\/food-truck\/\">View Details<\/a><\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 1159,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-1155",
+            "page",
+            "type-page",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "post-10",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1155",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1155"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 5,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1155\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1372,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1155\/revisions\/1372"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media\/1159"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=1155"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "id": 1159,
+                    "date": "2020-07-14T12:50:56",
+                    "slug": "img_6411",
+                    "type": "attachment",
+                    "link": "https:\/\/lahorecatering.nl\/food-truck\/img_6411\/",
+                    "title": {
+                        "rendered": "IMG_6411"
+                    },
+                    "author": 1,
+                    "featured_media": 0,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "",
+                    "media_type": "image",
+                    "mime_type": "image\/jpeg",
+                    "media_details": {
+                        "width": 2560,
+                        "height": 1440,
+                        "file": "2020\/07\/IMG_6411-scaled.jpg",
+                        "sizes": {
+                            "medium": {
+                                "file": "IMG_6411-300x169.jpg",
+                                "width": 300,
+                                "height": 169,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-300x169.jpg"
+                            },
+                            "large": {
+                                "file": "IMG_6411-1024x576.jpg",
+                                "width": 1024,
+                                "height": 576,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-1024x576.jpg"
+                            },
+                            "thumbnail": {
+                                "file": "IMG_6411-150x150.jpg",
+                                "width": 150,
+                                "height": 150,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-150x150.jpg"
+                            },
+                            "medium_large": {
+                                "file": "IMG_6411-768x432.jpg",
+                                "width": 768,
+                                "height": 432,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-768x432.jpg"
+                            },
+                            "1536x1536": {
+                                "file": "IMG_6411-1536x864.jpg",
+                                "width": 1536,
+                                "height": 864,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-1536x864.jpg"
+                            },
+                            "2048x2048": {
+                                "file": "IMG_6411-2048x1152.jpg",
+                                "width": 2048,
+                                "height": 1152,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-2048x1152.jpg"
+                            },
+                            "full": {
+                                "file": "IMG_6411-scaled.jpg",
+                                "width": 2560,
+                                "height": 1440,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-scaled.jpg"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "7.1",
+                            "credit": "",
+                            "camera": "Canon EOS Rebel T6i",
+                            "caption": "",
+                            "created_timestamp": "1562913953",
+                            "copyright": "",
+                            "focal_length": "18",
+                            "iso": "400",
+                            "shutter_speed": "0.01",
+                            "title": "",
+                            "orientation": "1",
+                            "keywords": []
+                        },
+                        "original_image": "IMG_6411.jpg"
+                    },
+                    "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2020\/07\/IMG_6411-scaled.jpg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media\/1159",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=1159"
+                            }
+                        ],
+                        "wp:attached-to": [
+                            {
+                                "embeddable": true,
+                                "post_type": "page",
+                                "id": 1155,
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/1155"
+                            }
+                        ],
+                        "curies": [
+                            {
+                                "name": "wp",
+                                "href": "https:\/\/api.w.org\/{rel}",
+                                "templated": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 579,
+        "date": "2018-10-19T06:04:27",
+        "date_gmt": "2018-10-19T06:04:27",
+        "guid": {
+            "rendered": "http:\/\/lahorecatering.nl\/?page_id=579"
+        },
+        "modified": "2026-04-10T11:13:47",
+        "modified_gmt": "2026-04-10T11:13:47",
+        "slug": "video-en-foto-galerij",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/video-en-foto-galerij\/",
+        "title": {
+            "rendered": "video en foto galerij"
+        },
+        "content": {
+            "rendered": "<h1 style=\"text-align: center;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">PHOTO GALLERY<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/h1>\n<style id=\"bwg-style-0\">    #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails {      width: 2004px;              justify-content: center;        margin:0 auto !important;              background-color: rgba(255, 255, 255, 0.00);            padding-left: 4px;      padding-top: 4px;      max-width: 100%;            }        #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-item {    justify-content: flex-start;      max-width: 400px;          }    #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-item a {       margin-right: 4px;       margin-bottom: 4px;    }    #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-item0 {      padding: 0px;            background-color:rgba(0,0,0, 0.30);      border: 0px none #CCCCCC;      opacity: 1.00;      border-radius: 0;      box-shadow: ;    }    #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-item1 img {      max-height: none;      max-width: none;      padding: 0 !important;    }         @media only screen and (min-width: 480px) {\t\t#bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-item1 img {\t\t\t-webkit-transition: all .3s; transition: all .3s;\t\t}\t\t#bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-item1 img:hover {\t\t\t-ms-transform: scale(1.08);\t\t\t-webkit-transform: scale(1.08);\t\t\ttransform: scale(1.08);\t\t}\t\t\t\t.bwg-standard-thumbnails .bwg-zoom-effect .bwg-zoom-effect-overlay {\t\t\t\t\t\tbackground-color:rgba(0,0,0, 0.3);\t\t}\t\t.bwg-standard-thumbnails .bwg-zoom-effect:hover img {\t\t\t-ms-transform: scale(1.08);\t\t\t-webkit-transform: scale(1.08);\t\t\ttransform: scale(1.08);\t\t}\t\t      }\t    #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-item1 {      padding-top: 65%;    }        #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-title1 {      position: absolute;      top: 0;      z-index: 100;      width: 100%;      height: 100%;      display: flex;      justify-content: center;      align-content: center;      flex-direction: column;      opacity: 0;    }\t      #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-title2,    #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-ecommerce2 {      color: #FFFFFF;      font-family: Ubuntu;      font-size: 16px;      font-weight: bold;      padding: 2px;      text-shadow: ;      max-height: 100%;    }    #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-thumb-description span {    color: #323A45;    font-family: Ubuntu;    font-size: 12px;    max-height: 100%;    word-wrap: break-word;    }    #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-play-icon2 {      font-size: 32px;    }    #bwg_container1_0 #bwg_container2_0 .bwg-container-0.bwg-standard-thumbnails .bwg-ecommerce2 {      font-size: 19.2px;      color: #323A45;    }    <\/style>    <div id=\"bwg_container1_0\"         class=\"bwg_container bwg_thumbnail bwg_thumbnails \"         data-right-click-protection=\"0\"         data-bwg=\"0\"         data-scroll=\"0\"         data-gallery-type=\"thumbnails\"         data-gallery-view-type=\"thumbnails\"         data-current-url=\"\/wp-json\/wp\/v2\/pages?per_page=50&#038;page=1&#038;_embed=1\"         data-lightbox-url=\"https:\/\/lahorecatering.nl\/wp-admin\/admin-ajax.php?action=GalleryBox&#038;current_view=0&#038;gallery_id=0&#038;tag=0&#038;theme_id=1&#038;shortcode_id=6&#038;sort_by=order&#038;order_by=asc&#038;current_url=%2Fwp-json%2Fwp%2Fv2%2Fpages%3Fper_page%3D50%26page%3D1%26_embed%3D1\"         data-gallery-id=\"0\"         data-popup-width=\"800\"         data-popup-height=\"500\"         data-is-album=\"gallery\"         data-buttons-position=\"bottom\">      <div id=\"bwg_container2_0\">             <div id=\"ajax_loading_0\" class=\"bwg_loading_div_1\">      <div class=\"bwg_loading_div_2\">        <div class=\"bwg_loading_div_3\">          <div id=\"loading_div_0\" class=\"bwg_spider_ajax_loading\">          <\/div>        <\/div>      <\/div>    <\/div>            <form id=\"gal_front_form_0\"              class=\"bwg-hidden\"              method=\"post\"              action=\"#\"              data-current=\"0\"              data-shortcode-id=\"6\"              data-gallery-type=\"thumbnails\"              data-gallery-id=\"0\"              data-tag=\"0\"              data-album-id=\"0\"              data-theme-id=\"1\"              data-ajax-url=\"https:\/\/lahorecatering.nl\/wp-admin\/admin-ajax.php?action=bwg_frontend_data\">          <div id=\"bwg_container3_0\" class=\"bwg-background bwg-background-0\">                <div data-max-count=\"5\"         data-thumbnail-width=\"400\"         data-bwg=\"0\"         data-gallery-id=\"0\"         data-lightbox-url=\"https:\/\/lahorecatering.nl\/wp-admin\/admin-ajax.php?action=GalleryBox&amp;current_view=0&amp;gallery_id=0&amp;tag=0&amp;theme_id=1&amp;shortcode_id=6&amp;sort_by=order&amp;order_by=asc&amp;current_url=%2Fwp-json%2Fwp%2Fv2%2Fpages%3Fper_page%3D50%26page%3D1%26_embed%3D1\"         id=\"bwg_thumbnails_0\"         class=\"bwg-container-0 bwg-thumbnails bwg-standard-thumbnails bwg-container bwg-border-box\">            <div class=\"bwg-item\">        <a class=\"bwg-a  bwg_lightbox\"  data-image-id=\"15\" href=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/41371591_519436261836962_7170808690809765888_n%20(1).jpg?bwg=1540279282\" data-elementor-open-lightbox=\"no\">                <div class=\"bwg-item0 \">          <div class=\"bwg-item1 bwg-zoom-effect\">            <div class=\"bwg-item2\">              <img decoding=\"async\" class=\"skip-lazy bwg_standart_thumb_img_0 \"                   data-id=\"15\"                   data-width=\"\"                   data-height=\"\"                   data-src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/41371591_519436261836962_7170808690809765888_n%20(1).jpg?bwg=1540279282\"                   src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/41371591_519436261836962_7170808690809765888_n%20(1).jpg?bwg=1540279282\"                   alt=\"41371591_519436261836962_7170808690809765888_n\"                   title=\"41371591_519436261836962_7170808690809765888_n\" \/>            <\/div>            <div class=\"bwg-zoom-effect-overlay\">              <div class=\"bwg-title1\"><div class=\"bwg-title2\">41371591_519436261836962_7170808690809765888_n<\/div><\/div>                                        <\/div>          <\/div>        <\/div>                        <\/a>              <\/div>            <div class=\"bwg-item\">        <a class=\"bwg-a  bwg_lightbox\"  data-image-id=\"14\" href=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/41326762_519436245170297_3053443669798420480_n%20(1).jpg?bwg=1540279282\" data-elementor-open-lightbox=\"no\">                <div class=\"bwg-item0 \">          <div class=\"bwg-item1 bwg-zoom-effect\">            <div class=\"bwg-item2\">              <img decoding=\"async\" class=\"skip-lazy bwg_standart_thumb_img_0 \"                   data-id=\"14\"                   data-width=\"\"                   data-height=\"\"                   data-src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/41326762_519436245170297_3053443669798420480_n%20(1).jpg?bwg=1540279282\"                   src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/41326762_519436245170297_3053443669798420480_n%20(1).jpg?bwg=1540279282\"                   alt=\"41326762_519436245170297_3053443669798420480_n\"                   title=\"41326762_519436245170297_3053443669798420480_n\" \/>            <\/div>            <div class=\"bwg-zoom-effect-overlay\">              <div class=\"bwg-title1\"><div class=\"bwg-title2\">41326762_519436245170297_3053443669798420480_n<\/div><\/div>                                        <\/div>          <\/div>        <\/div>                        <\/a>              <\/div>            <div class=\"bwg-item\">        <a class=\"bwg-a  bwg_lightbox\"  data-image-id=\"8\" href=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/43095999_529783070802281_8296143654834143232_n.jpg?bwg=1539930538\" data-elementor-open-lightbox=\"no\">                <div class=\"bwg-item0 \">          <div class=\"bwg-item1 bwg-zoom-effect\">            <div class=\"bwg-item2\">              <img decoding=\"async\" class=\"skip-lazy bwg_standart_thumb_img_0 \"                   data-id=\"8\"                   data-width=\"\"                   data-height=\"\"                   data-src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/43095999_529783070802281_8296143654834143232_n.jpg?bwg=1539930538\"                   src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/43095999_529783070802281_8296143654834143232_n.jpg?bwg=1539930538\"                   alt=\"\"                   title=\"\" \/>            <\/div>            <div class=\"bwg-zoom-effect-overlay\">              <div class=\"bwg-title1\"><div class=\"bwg-title2\">&nbsp;<\/div><\/div>                                        <\/div>          <\/div>        <\/div>                        <\/a>              <\/div>            <div class=\"bwg-item\">        <a class=\"bwg-a  bwg_lightbox\"  data-image-id=\"5\" href=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/42993583_529783077468947_8278955221485355008_n.jpg?bwg=1539930538\" data-elementor-open-lightbox=\"no\">                <div class=\"bwg-item0 \">          <div class=\"bwg-item1 bwg-zoom-effect\">            <div class=\"bwg-item2\">              <img decoding=\"async\" class=\"skip-lazy bwg_standart_thumb_img_0 \"                   data-id=\"5\"                   data-width=\"\"                   data-height=\"\"                   data-src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/42993583_529783077468947_8278955221485355008_n.jpg?bwg=1539930538\"                   src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/42993583_529783077468947_8278955221485355008_n.jpg?bwg=1539930538\"                   alt=\"\"                   title=\"\" \/>            <\/div>            <div class=\"bwg-zoom-effect-overlay\">              <div class=\"bwg-title1\"><div class=\"bwg-title2\">&nbsp;<\/div><\/div>                                        <\/div>          <\/div>        <\/div>                        <\/a>              <\/div>            <div class=\"bwg-item\">        <a class=\"bwg-a  bwg_lightbox\"  data-image-id=\"4\" href=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/42844698_527854977661757_4663254904771444736_n.jpg?bwg=1539930538\" data-elementor-open-lightbox=\"no\">                <div class=\"bwg-item0 \">          <div class=\"bwg-item1 bwg-zoom-effect\">            <div class=\"bwg-item2\">              <img decoding=\"async\" class=\"skip-lazy bwg_standart_thumb_img_0 \"                   data-id=\"4\"                   data-width=\"\"                   data-height=\"\"                   data-src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/42844698_527854977661757_4663254904771444736_n.jpg?bwg=1539930538\"                   src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/42844698_527854977661757_4663254904771444736_n.jpg?bwg=1539930538\"                   alt=\"\"                   title=\"\" \/>            <\/div>            <div class=\"bwg-zoom-effect-overlay\">              <div class=\"bwg-title1\"><div class=\"bwg-title2\">&nbsp;<\/div><\/div>                                        <\/div>          <\/div>        <\/div>                        <\/a>              <\/div>            <div class=\"bwg-item\">        <a class=\"bwg-a  bwg_lightbox\"  data-image-id=\"3\" href=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/43102655_529783147468940_2946227155647856640_n.jpg?bwg=1539930538\" data-elementor-open-lightbox=\"no\">                <div class=\"bwg-item0 \">          <div class=\"bwg-item1 bwg-zoom-effect\">            <div class=\"bwg-item2\">              <img decoding=\"async\" class=\"skip-lazy bwg_standart_thumb_img_0 \"                   data-id=\"3\"                   data-width=\"\"                   data-height=\"\"                   data-src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/43102655_529783147468940_2946227155647856640_n.jpg?bwg=1539930538\"                   src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/photo-gallery\/imported_from_media_libray\/thumb\/43102655_529783147468940_2946227155647856640_n.jpg?bwg=1539930538\"                   alt=\"\"                   title=\"\" \/>            <\/div>            <div class=\"bwg-zoom-effect-overlay\">              <div class=\"bwg-title1\"><div class=\"bwg-title2\">&nbsp;<\/div><\/div>                                        <\/div>          <\/div>        <\/div>                        <\/a>              <\/div>          <\/div>    <style>      \/*pagination styles*\/      #bwg_container1_0 #bwg_container2_0 .tablenav-pages_0 {\t\t\t\ttext-align: center;\t\t\t\tfont-size: 12px;\t\t\t\tfont-family: Ubuntu;\t\t\t\tfont-weight: bold;\t\t\t\tcolor: #666666;\t\t\t\tmargin: 6px 0 4px;\t\t\t\tdisplay: block;      }      @media only screen and (max-width : 320px) {      #bwg_container1_0 #bwg_container2_0 .displaying-num_0 {     \t display: none;      }      }      #bwg_container1_0 #bwg_container2_0 .displaying-num_0 {\t\t\t\tfont-size: 12px;\t\t\t\tfont-family: Ubuntu;\t\t\t\tfont-weight: bold;\t\t\t\tcolor: #666666;\t\t\t\tmargin-right: 10px;\t\t\t\tvertical-align: middle;      }      #bwg_container1_0 #bwg_container2_0 .paging-input_0 {\t\t\t\tfont-size: 12px;\t\t\t\tfont-family: Ubuntu;\t\t\t\tfont-weight: bold;\t\t\t\tcolor: #666666;\t\t\t\tvertical-align: middle;      }      #bwg_container1_0 #bwg_container2_0 .tablenav-pages_0 a.disabled,      #bwg_container1_0 #bwg_container2_0 .tablenav-pages_0 a.disabled:hover,      #bwg_container1_0 #bwg_container2_0 .tablenav-pages_0 a.disabled:focus,\t\t\t#bwg_container1_0 #bwg_container2_0 .tablenav-pages_0 input.bwg_current_page {\t\t\t\tcursor: default;\t\t\t\tcolor: rgba(102, 102, 102, 0.5);      }      #bwg_container1_0 #bwg_container2_0 .tablenav-pages_0 a,      #bwg_container1_0 #bwg_container2_0 .tablenav-pages_0 input.bwg_current_page {\t\t\t\tcursor: pointer;\t\t\t\ttext-align: center;\t\t\t\tfont-size: 12px;\t\t\t\tfont-family: Ubuntu;\t\t\t\tfont-weight: bold;\t\t\t\tcolor: #666666;\t\t\t\ttext-decoration: none;\t\t\t\tpadding: 3px 6px;\t\t\t\tmargin: 0;\t\t\t\tborder-radius: 0;\t\t\t\tborder-style: solid;\t\t\t\tborder-width: 1px;\t\t\t\tborder-color: #E3E3E3;\t\t\t\t\t\t\t\tbackground-color: rgba(255, 255, 255, 1.00);\t\t\t\tbox-shadow: 0;\t\t\t\ttransition: all 0.3s ease 0s;-webkit-transition: all 0.3s ease 0s;      }      <\/style>      <span class=\"bwg_nav_cont_0\">              <div class=\"tablenav-pages_0\">                  <\/div>                <input type=\"hidden\" id=\"page_number_0\" name=\"page_number_0\" value=\"1\" \/>      <script type=\"text\/javascript\">        if( jQuery('.bwg_nav_cont_0').length > 1 ) {          jQuery('.bwg_nav_cont_0').first().remove()        }        function spider_page_0(cur, x, y, load_more) {          if (typeof load_more == \"undefined\") {            var load_more = false;          }          if (jQuery(cur).hasClass('disabled')) {            return false;          }          var items_county_0 = 1;          switch (y) {            case 1:              if (x >= items_county_0) {                document.getElementById('page_number_0').value = items_county_0;              }              else {                document.getElementById('page_number_0').value = x + 1;              }              break;            case 2:              document.getElementById('page_number_0').value = items_county_0;              break;            case -1:              if (x == 1) {                document.getElementById('page_number_0').value = 1;              }              else {                document.getElementById('page_number_0').value = x - 1;              }              break;            case -2:              document.getElementById('page_number_0').value = 1;              break;\t\t\t\t\t\tcase 0:              document.getElementById('page_number_0').value = x;              break;            default:              document.getElementById('page_number_0').value = 1;          }          bwg_ajax('gal_front_form_0', '0', 'bwg_thumbnails_0', '0', '', 'gallery', 0, '', '', load_more, '', 1);        }                    jQuery('.first-page-0').on('click', function () {              spider_page_0(this, 1, -2, 'numeric');              return false;            });            jQuery('.prev-page-0').on('click', function () {              spider_page_0(this, 1, -1, 'numeric');              return false;            });            jQuery('.next-page-0').on('click', function () {              spider_page_0(this, 1, 1, 'numeric');              return false;            });            jQuery('.last-page-0').on('click', function () {              spider_page_0(this, 1, 2, 'numeric');              return false;            });        \t\t\t\t\/* Change page on input enter. *\/        function bwg_change_page_0( e, that ) {          if (  e.key == 'Enter' ) {            var to_page = parseInt(jQuery(that).val());            var pages_count = jQuery(that).parents(\".pagination-links\").data(\"pages-count\");            var current_url_param = jQuery(that).attr('data-url-info');            if (to_page > pages_count) {              to_page = 1;            }\t \t\t\t\t\t\t\t\t\t\t\t\tspider_page_0(this, to_page, 0, 'numeric');\t\t\t\t\t\t\treturn false;\t\t\t\t\t\t          }          return true;        }        jQuery('.bwg_load_btn_0').on('click', function () {            spider_page_0(this, 1, 1, true);            return false;        });      <\/script>      <\/span>                <\/div>        <\/form>        <style>          #bwg_container1_0 #bwg_container2_0 #spider_popup_overlay_0 {          background-color: #EEEEEE;          opacity: 0.60;          }          <\/style>        <div id=\"bwg_spider_popup_loading_0\" class=\"bwg_spider_popup_loading\"><\/div>        <div id=\"spider_popup_overlay_0\" class=\"spider_popup_overlay\" onclick=\"spider_destroypopup(1000)\"><\/div>        <input type=\"hidden\" id=\"bwg_random_seed_0\" value=\"1701966602\">                <\/div>    <\/div>    <script>      if (document.readyState === 'complete') {        if( typeof bwg_main_ready == 'function' ) {          if ( jQuery(\"#bwg_container1_0\").height() ) {            bwg_main_ready(jQuery(\"#bwg_container1_0\"));          }        }      } else {        document.addEventListener('DOMContentLoaded', function() {          if( typeof bwg_main_ready == 'function' ) {            if ( jQuery(\"#bwg_container1_0\").height() ) {             bwg_main_ready(jQuery(\"#bwg_container1_0\"));            }          }        });      }    <\/script>    \n<h1 style=\"text-align: center;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">VIDEO<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/h1>\n<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><!-- print_responsive_video_grid_func --><style type='text\/css'>\n       #divSliderMain6ac33eb431f17  {background: none repeat scroll 0 0#FFFFFF ! important;\n                border: 0px none !important;\n                box-shadow: 0 0 0 0 !important;\n\n        }\n        <\/style>\t\n                                   <div style=\"clear: both;\"><\/div>\n                                            \n\n                                 <div style=\"width: auto; postion: relative\" id=\"divSliderMain6ac33eb431f17\">\n                                     \n                                      <div id=\"thumnail_slider6ac33eb431f14\" class=\"wrap_grid\" style=\"margin-top: 2px !important;\">\n                                                                                    <div class=\"box_parent \" >     \n                                            \n\n                                                                               <div class=\"box_grid\">\n                                                                               <div class=\"boxInner_grid\">\n\n                                                                                                                                                                          <a rel=\"rel_6ac33eb431f22\" data-overlay=\"1\" data-title=\"&lt;a class=&#039;Imglink&#039; target=&#039;_self&#039; href=&#039;https:\/\/www.youtube.com\/watch?v=dFFEtvgwhHQ&#039;&gt;Lahore Catering Services en getuigenissen&lt;\/a&gt;\" class=\"video_lbox\" href=\"\/\/www.youtube.com\/embed\/dFFEtvgwhHQ\">\n                                                                                           <img decoding=\"async\"  loading=\"lazy\"  class=\"thumb_img__  \"  src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/wp-responsive-video-grid\/dFFEtvgwhHQ_big_270_360.jpg\" alt=\"Lahore Catering Services en getuigenissen\"\/>\n                                                                                           <span class=\"playbtnCss\"><\/span>\n                                                                                           <div class=\"titleBox\">Lahore Catering Services en getuigenissen<\/div>\n                                                                                       <\/a>  \n                                                                                       \n                                                                               <\/div>\n                                                                             <\/div>\n\n                                                               \n\n                                                                               <div class=\"box_grid\">\n                                                                               <div class=\"boxInner_grid\">\n\n                                                                                                                                                                          <a rel=\"rel_6ac33eb431f22\" data-overlay=\"1\" data-title=\"&lt;a class=&#039;Imglink&#039; target=&#039;_self&#039; href=&#039;https:\/\/www.youtube.com\/watch?v=KU0M0WtvYKo&#039;&gt;Lahore Catering Services en getuigenissen&lt;\/a&gt;\" class=\"video_lbox\" href=\"\/\/www.youtube.com\/embed\/KU0M0WtvYKo\">\n                                                                                           <img decoding=\"async\"  loading=\"lazy\"  class=\"thumb_img__  \"  src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/wp-responsive-video-grid\/KU0M0WtvYKo_big_270_360.jpg\" alt=\"Lahore Catering Services en getuigenissen\"\/>\n                                                                                           <span class=\"playbtnCss\"><\/span>\n                                                                                           <div class=\"titleBox\">Lahore Catering Services en getuigenissen<\/div>\n                                                                                       <\/a>  \n                                                                                       \n                                                                               <\/div>\n                                                                             <\/div>\n\n                                                               \n\n                                                                               <div class=\"box_grid\">\n                                                                               <div class=\"boxInner_grid\">\n\n                                                                                                                                                                          <a rel=\"rel_6ac33eb431f22\" data-overlay=\"1\" data-title=\"&lt;a class=&#039;Imglink&#039; target=&#039;_self&#039; href=&#039;https:\/\/www.youtube.com\/watch?v=1DSIQJ1a5-w&#039;&gt;Lahore Catering Services en getuigenissen&lt;\/a&gt;\" class=\"video_lbox\" href=\"\/\/www.youtube.com\/embed\/1DSIQJ1a5-w\">\n                                                                                           <img decoding=\"async\"  loading=\"lazy\"  class=\"thumb_img__  \"  src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/wp-responsive-video-grid\/1DSIQJ1a5-w_big_270_360.jpg\" alt=\"Lahore Catering Services en getuigenissen\"\/>\n                                                                                           <span class=\"playbtnCss\"><\/span>\n                                                                                           <div class=\"titleBox\">Lahore Catering Services en getuigenissen<\/div>\n                                                                                       <\/a>  \n                                                                                       \n                                                                               <\/div>\n                                                                             <\/div>\n\n                                                               \n\n                                                                               <div class=\"box_grid\">\n                                                                               <div class=\"boxInner_grid\">\n\n                                                                                                                                                                          <a rel=\"rel_6ac33eb431f22\" data-overlay=\"1\" data-title=\"&lt;a class=&#039;Imglink&#039; target=&#039;_self&#039; href=&#039;https:\/\/www.youtube.com\/watch?v=kbTPTUbv_Jc&#039;&gt;Lahore Catering Function&lt;\/a&gt;\" class=\"video_lbox\" href=\"\/\/www.youtube.com\/embed\/kbTPTUbv_Jc\">\n                                                                                           <img decoding=\"async\"  loading=\"lazy\"  class=\"thumb_img__  \"  src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/wp-responsive-video-grid\/kbTPTUbv_Jc_big_270_360.jpg\" alt=\"Lahore Catering Function\"\/>\n                                                                                           <span class=\"playbtnCss\"><\/span>\n                                                                                           <div class=\"titleBox\">Lahore Catering Function<\/div>\n                                                                                       <\/a>  \n                                                                                       \n                                                                               <\/div>\n                                                                             <\/div>\n\n                                                               \n\n                                                                               <div class=\"box_grid\">\n                                                                               <div class=\"boxInner_grid\">\n\n                                                                                                                                                                          <a rel=\"rel_6ac33eb431f22\" data-overlay=\"1\" data-title=\"&lt;a class=&#039;Imglink&#039; target=&#039;_self&#039; href=&#039;https:\/\/www.youtube.com\/watch?v=ot246H8g9W0&#039;&gt;Lahore Catering Services NL&lt;\/a&gt;\" class=\"video_lbox\" href=\"\/\/www.youtube.com\/embed\/ot246H8g9W0\">\n                                                                                           <img decoding=\"async\"  loading=\"lazy\"  class=\"thumb_img__  \"  src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/wp-responsive-video-grid\/ot246H8g9W0_big_270_360.jpg\" alt=\"Lahore Catering Services NL\"\/>\n                                                                                           <span class=\"playbtnCss\"><\/span>\n                                                                                           <div class=\"titleBox\">Lahore Catering Services NL<\/div>\n                                                                                       <\/a>  \n                                                                                       \n                                                                               <\/div>\n                                                                             <\/div>\n\n                                                               \n\n                                                                               <div class=\"box_grid\">\n                                                                               <div class=\"boxInner_grid\">\n\n                                                                                                                                                                          <a rel=\"rel_6ac33eb431f22\" data-overlay=\"1\" data-title=\"&lt;a class=&#039;Imglink&#039; target=&#039;_self&#039; href=&#039;https:\/\/www.youtube.com\/watch?v=cGxh27h-mBQ&#039;&gt;Lahore Catering Function NL&lt;\/a&gt;\" class=\"video_lbox\" href=\"\/\/www.youtube.com\/embed\/cGxh27h-mBQ\">\n                                                                                           <img decoding=\"async\"  loading=\"lazy\"  class=\"thumb_img__  \"  src=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/wp-responsive-video-grid\/cGxh27h-mBQ_big_270_360.jpg\" alt=\"Lahore Catering Function NL\"\/>\n                                                                                           <span class=\"playbtnCss\"><\/span>\n                                                                                           <div class=\"titleBox\">Lahore Catering Function NL<\/div>\n                                                                                       <\/a>  \n                                                                                       \n                                                                               <\/div>\n                                                                             <\/div>\n\n                                                                  \n                                                              \n                                            <\/div>\n                                      <\/div>\n                               <\/div>\n                            <script>\n                            \n                                           \n                            var interval_6ac33eb432197 = setInterval(function() {\n\n                            if(document.readyState === 'complete') {\n\n                               clearInterval(interval_6ac33eb432197);\n                                         \n                                    var uniqObj=jQuery(\"a[rel='rel_6ac33eb431f22']\");\n\n\n                                                                        videoPlacements('thumnail_slider6ac33eb431f14',jQuery);\n                                                                                                            jQuery(\".video_lbox\").fancybox_vg({\n                                    'type'    : \"iframe\",\n                                    'overlayColor':'#000000',\n                                     'padding': 10,\n                                     'autoScale': true,\n                                     'autoDimensions':true,\n                                     'transitionIn': 'none',\n                                     'uniqObj':uniqObj,\n                                     'transitionOut': 'none',\n                                     'titlePosition': 'outside',\n                                     'hideOnContentClick':false,\n                                     'width' : 650,\n                                     'height' : 400,\n                                     'titleFormat': function(title, currentArray, currentIndex, currentOpts) {\n\n                                         var currtElem = jQuery('#thumnail_slider6ac33eb431f14 a[href=\"'+currentOpts.href+'\"]');\n\n                                         var isoverlay = jQuery(currtElem).attr('data-overlay')\n\n                                        if(isoverlay==\"1\" && jQuery.trim(title)!=\"\"){\n                                            return '<span id=\"fancybox_vg-title-over\">' + title  + '<\/span>';\n                                         }\n                                        else{\n                                                 return '';\n                                             }\n\n                                           }\n\n                                        });\n                                    \n\n                                    var width__ = jQuery(window).width();\n                                    var timer__;\n                                    jQuery(window).bind('resize', function(){\n                                        if(jQuery(window).width() != width__){\n\n                                            width__ = jQuery(window).width();\n                                            timer__ && clearTimeout(timer__);\n                                            timer__ = setTimeout(function(){ \n\n                                                                                        videoPlacements('thumnail_slider6ac33eb431f14',jQuery);\n                                            \n                                            }, 200);\n\n                                        }  \n                                    });\n                                }    \n                            }, 100);\n                                                            \n                             <\/script>\n                             <div class=\"clear_div\"><\/div><!-- end print_responsive_video_grid_func -->\n                 \n                                                                                           \n         <\/span><\/span><\/span><\/span><\/p>\n<p>&nbsp;<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>PHOTO GALLERY<\/p>\n<p>VIDEO<\/p>\n<p>&nbsp;…<\/p>\n<p> <a class=\"btn btn-default\" href=\"https:\/\/lahorecatering.nl\/video-en-foto-galerij\/\">View Details<\/a><\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-579",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-11",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/579",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=579"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 17,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/579\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 812,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/579\/revisions\/812"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=579"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 378,
+        "date": "2015-12-30T17:48:10",
+        "date_gmt": "2015-12-30T17:48:10",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=378"
+        },
+        "modified": "2026-04-10T11:08:31",
+        "modified_gmt": "2026-04-10T11:08:31",
+        "slug": "home-3",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/home-3\/",
+        "title": {
+            "rendered": "Lahore Catering Friesland"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-378",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-12",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/378",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=378"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/378\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 494,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/378\/revisions\/494"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=378"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 341,
+        "date": "2015-12-29T13:44:13",
+        "date_gmt": "2015-12-29T13:44:13",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=341"
+        },
+        "modified": "2026-04-10T11:09:53",
+        "modified_gmt": "2026-04-10T11:09:53",
+        "slug": "my-account",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/my-account\/",
+        "title": {
+            "rendered": "My Account"
+        },
+        "content": {
+            "rendered": "<p>[woocommerce_my_account]<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>[woocommerce_my_account]…<\/p>\n<p> <a class=\"btn btn-default\" href=\"https:\/\/lahorecatering.nl\/my-account\/\">View Details<\/a><\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-341",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-13",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/341",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=341"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/341\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1375,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/341\/revisions\/1375"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=341"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 337,
+        "date": "2015-12-28T18:54:41",
+        "date_gmt": "2015-12-28T18:54:41",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=337"
+        },
+        "modified": "2026-04-10T10:57:17",
+        "modified_gmt": "2026-04-10T10:57:17",
+        "slug": "checkout",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/checkout\/",
+        "title": {
+            "rendered": "Checkout"
+        },
+        "content": {
+            "rendered": "<p>[woocommerce_checkout]<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>[woocommerce_checkout]…<\/p>\n<p> <a class=\"btn btn-default\" href=\"https:\/\/lahorecatering.nl\/checkout\/\">View Details<\/a><\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-337",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-14",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/337",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=337"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/337\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1370,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/337\/revisions\/1370"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=337"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 334,
+        "date": "2015-12-28T17:44:59",
+        "date_gmt": "2015-12-28T17:44:59",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=334"
+        },
+        "modified": "2026-04-10T10:54:10",
+        "modified_gmt": "2026-04-10T10:54:10",
+        "slug": "cart",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/cart\/",
+        "title": {
+            "rendered": "Cart"
+        },
+        "content": {
+            "rendered": "<p>[woocommerce_cart]<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>[woocommerce_cart]…<\/p>\n<p> <a class=\"btn btn-default\" href=\"https:\/\/lahorecatering.nl\/cart\/\">View Details<\/a><\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-334",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-15",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/334",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=334"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/334\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1369,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/334\/revisions\/1369"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=334"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 136,
+        "date": "2015-12-21T10:30:37",
+        "date_gmt": "2015-12-21T10:30:37",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=136"
+        },
+        "modified": "2026-04-10T10:48:46",
+        "modified_gmt": "2026-04-10T10:48:46",
+        "slug": "about",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/about\/",
+        "title": {
+            "rendered": "About"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-136",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-16",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/136",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=136"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/136\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1367,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/136\/revisions\/1367"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=136"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 131,
+        "date": "2015-12-21T10:28:04",
+        "date_gmt": "2015-12-21T10:28:04",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=131"
+        },
+        "modified": "2026-04-10T11:11:53",
+        "modified_gmt": "2026-04-10T11:11:53",
+        "slug": "cheap-catering-in-leeuwarden",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/cheap-catering-in-leeuwarden\/",
+        "title": {
+            "rendered": "Reservation &#8211; Open Table"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-131",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-17",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/131",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=131"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/131\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1377,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/131\/revisions\/1377"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=131"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 129,
+        "date": "2015-12-21T10:23:37",
+        "date_gmt": "2015-12-21T10:23:37",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=129"
+        },
+        "modified": "2026-04-10T11:06:17",
+        "modified_gmt": "2026-04-10T11:06:17",
+        "slug": "indian-food-in-friesland",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/indian-food-in-friesland\/",
+        "title": {
+            "rendered": "Indian food in Friesland"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 542,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-129",
+            "page",
+            "type-page",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "post-18",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/129",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=129"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 8,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/129\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1373,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/129\/revisions\/1373"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media\/542"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=129"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "id": 542,
+                    "date": "2018-10-05T08:01:24",
+                    "slug": "food-catering-cuisine-culinary-gourmet-buffet-party-concept",
+                    "type": "attachment",
+                    "link": "https:\/\/lahorecatering.nl\/indian-food-in-friesland\/food-catering-cuisine-culinary-gourmet-buffet-party-concept\/",
+                    "title": {
+                        "rendered": "Buffet Catering"
+                    },
+                    "author": 1,
+                    "featured_media": 0,
+                    "caption": {
+                        "rendered": ""
+                    },
+                    "alt_text": "Buffet Catering",
+                    "media_type": "image",
+                    "mime_type": "image\/jpeg",
+                    "media_details": {
+                        "width": 5176,
+                        "height": 2882,
+                        "file": "2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED.jpg",
+                        "sizes": {
+                            "thumbnail": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-150x150.jpg",
+                                "width": 150,
+                                "height": 150,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-150x150.jpg"
+                            },
+                            "medium": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-300x167.jpg",
+                                "width": 300,
+                                "height": 167,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-300x167.jpg"
+                            },
+                            "medium_large": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-768x428.jpg",
+                                "width": 768,
+                                "height": 428,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-768x428.jpg"
+                            },
+                            "large": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-1024x570.jpg",
+                                "width": 1024,
+                                "height": 570,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-1024x570.jpg"
+                            },
+                            "woocommerce_thumbnail": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-300x300.jpg",
+                                "width": 300,
+                                "height": 300,
+                                "uncropped": true,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-300x300.jpg"
+                            },
+                            "woocommerce_single": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-600x334.jpg",
+                                "width": 600,
+                                "height": 334,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-600x334.jpg"
+                            },
+                            "woocommerce_gallery_thumbnail": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-100x100.jpg",
+                                "width": 100,
+                                "height": 100,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-100x100.jpg"
+                            },
+                            "shop_catalog": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-300x300.jpg",
+                                "width": 300,
+                                "height": 300,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-300x300.jpg"
+                            },
+                            "shop_single": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-600x334.jpg",
+                                "width": 600,
+                                "height": 334,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-600x334.jpg"
+                            },
+                            "shop_thumbnail": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-100x100.jpg",
+                                "width": 100,
+                                "height": 100,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED-100x100.jpg"
+                            },
+                            "full": {
+                                "file": "food-catering-cuisine-culinary-gourmet-buffet-PY4CDED.jpg",
+                                "width": 5176,
+                                "height": 2882,
+                                "mime_type": "image\/jpeg",
+                                "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED.jpg"
+                            }
+                        },
+                        "image_meta": {
+                            "aperture": "2.8",
+                            "credit": "",
+                            "camera": "NIKON D3X",
+                            "caption": "Food Catering Cuisine Culinary Gourmet Buffet Party Concept",
+                            "created_timestamp": "1455069542",
+                            "copyright": "Rawpixel Ltd.",
+                            "focal_length": "28",
+                            "iso": "200",
+                            "shutter_speed": "0.0125",
+                            "title": "Food Catering Cuisine Culinary Gourmet Buffet Party Concept",
+                            "orientation": "1",
+                            "keywords": [
+                                "african descent",
+                                "anniversary",
+                                "beverage",
+                                "buffet",
+                                "cafe",
+                                "casual",
+                                "catering",
+                                "celebrate",
+                                "celebration",
+                                "community",
+                                "companionship",
+                                "connection",
+                                "cuisine",
+                                "culinary",
+                                "dinner",
+                                "discussion",
+                                "diversity",
+                                "eating",
+                                "enjoyment",
+                                "event",
+                                "food",
+                                "food and beverage",
+                                "friends",
+                                "friendship",
+                                "gathering",
+                                "gourmet",
+                                "group of people",
+                                "happiness",
+                                "holiday",
+                                "lunch",
+                                "meal",
+                                "meeting",
+                                "men",
+                                "multiethnic group",
+                                "party",
+                                "people",
+                                "relationship",
+                                "restaurant",
+                                "socialize",
+                                "team",
+                                "togetherness",
+                                "unity",
+                                "women"
+                            ]
+                        }
+                    },
+                    "source_url": "https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/food-catering-cuisine-culinary-gourmet-buffet-PY4CDED.jpg",
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media\/542",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media"
+                            }
+                        ],
+                        "about": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/attachment"
+                            }
+                        ],
+                        "author": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                            }
+                        ],
+                        "replies": [
+                            {
+                                "embeddable": true,
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=542"
+                            }
+                        ],
+                        "wp:attached-to": [
+                            {
+                                "embeddable": true,
+                                "post_type": "page",
+                                "id": 129,
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/129"
+                            }
+                        ],
+                        "curies": [
+                            {
+                                "name": "wp",
+                                "href": "https:\/\/api.w.org\/{rel}",
+                                "templated": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 117,
+        "date": "2015-12-21T10:11:19",
+        "date_gmt": "2015-12-21T10:11:19",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=117"
+        },
+        "modified": "2026-04-10T10:56:09",
+        "modified_gmt": "2026-04-10T10:56:09",
+        "slug": "the-best-indian-catering-company-in-friesland",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/the-best-indian-catering-company-in-friesland\/",
+        "title": {
+            "rendered": "Catering"
+        },
+        "content": {
+            "rendered": "<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-939\" src=\"http:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.46-PM-184x300.jpeg\" alt=\"\" width=\"184\" height=\"300\" srcset=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.46-PM-184x300.jpeg 184w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.46-PM-768x1255.jpeg 768w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.46-PM-626x1024.jpeg 626w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.46-PM-600x981.jpeg 600w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.46-PM.jpeg 783w\" sizes=\"auto, (max-width: 184px) 100vw, 184px\" \/> <img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-940\" src=\"http:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.49-PM-184x300.jpeg\" alt=\"\" width=\"184\" height=\"300\" srcset=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.49-PM-184x300.jpeg 184w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.49-PM-768x1255.jpeg 768w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.49-PM-626x1024.jpeg 626w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.49-PM-600x981.jpeg 600w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.49-PM.jpeg 783w\" sizes=\"auto, (max-width: 184px) 100vw, 184px\" \/> <img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-941\" src=\"http:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-1-184x300.jpeg\" alt=\"\" width=\"184\" height=\"300\" srcset=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-1-184x300.jpeg 184w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-1-768x1255.jpeg 768w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-1-626x1024.jpeg 626w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-1-600x981.jpeg 600w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-1.jpeg 783w\" sizes=\"auto, (max-width: 184px) 100vw, 184px\" \/> <img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-942\" src=\"http:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-184x300.jpeg\" alt=\"\" width=\"184\" height=\"300\" srcset=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-184x300.jpeg 184w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-768x1255.jpeg 768w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-626x1024.jpeg 626w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM-600x981.jpeg 600w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.50-PM.jpeg 783w\" sizes=\"auto, (max-width: 184px) 100vw, 184px\" \/> <img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-943\" src=\"http:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-1-184x300.jpeg\" alt=\"\" width=\"184\" height=\"300\" srcset=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-1-184x300.jpeg 184w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-1-768x1255.jpeg 768w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-1-626x1024.jpeg 626w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-1-600x981.jpeg 600w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-1.jpeg 783w\" sizes=\"auto, (max-width: 184px) 100vw, 184px\" \/> <img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-944\" src=\"http:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-184x300.jpeg\" alt=\"\" width=\"184\" height=\"300\" srcset=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-184x300.jpeg 184w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-768x1255.jpeg 768w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-626x1024.jpeg 626w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM-600x981.jpeg 600w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2019\/04\/WhatsApp-Image-2019-04-01-at-4.31.51-PM.jpeg 783w\" sizes=\"auto, (max-width: 184px) 100vw, 184px\" \/><\/p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-805\" src=\"http:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/1-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/1-212x300.jpg 212w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/1-600x848.jpg 600w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/1.jpg 650w\" sizes=\"auto, (max-width: 212px) 100vw, 212px\" \/><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-805\" src=\"http:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/1-212x300.jpg\" alt=\"\" width=\"212\" height=\"300\" srcset=\"https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/1-212x300.jpg 212w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/1-600x848.jpg 600w, https:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/1.jpg 650w\" sizes=\"auto, (max-width: 212px) 100vw, 212px\" \/><\/p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-medium wp-image-765\" src=\"http:\/\/lahorecatering.nl\/wp-content\/uploads\/2018\/10\/FINAL1-211x300.jpg\" alt=\"\" width=\"211\" height=\"300\" \/><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>…<\/p>\n<p> <a class=\"btn btn-default\" href=\"https:\/\/lahorecatering.nl\/the-best-indian-catering-company-in-friesland\/\">View Details<\/a><\/p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-117",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-19",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/117",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=117"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 9,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/117\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1194,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/117\/revisions\/1194"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=117"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 101,
+        "date": "2015-12-21T09:07:09",
+        "date_gmt": "2015-12-21T09:07:09",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=101"
+        },
+        "modified": "2026-04-10T11:07:28",
+        "modified_gmt": "2026-04-10T11:07:28",
+        "slug": "home",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/",
+        "title": {
+            "rendered": "Lahore Catering &#8211; The Pakistani cuisine of Friesland"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-101",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-20",
+            "even alt"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/101",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=101"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/101\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 1374,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/101\/revisions\/1374"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=101"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 427,
+        "date": "2015-12-15T10:32:43",
+        "date_gmt": "2015-12-15T10:32:43",
+        "guid": {
+            "rendered": "http:\/\/dev.joomexp.com\/wordpress\/sq-tomato\/?page_id=7"
+        },
+        "modified": "2026-04-10T10:50:57",
+        "modified_gmt": "2026-04-10T10:50:57",
+        "slug": "blog",
+        "status": "publish",
+        "type": "page",
+        "link": "https:\/\/lahorecatering.nl\/blog\/",
+        "title": {
+            "rendered": "Blog"
+        },
+        "content": {
+            "rendered": "",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "parent": 0,
+        "menu_order": 0,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "template": "",
+        "meta": {
+            "footnotes": ""
+        },
+        "class_list": [
+            "post-427",
+            "page",
+            "type-page",
+            "status-publish",
+            "hentry",
+            "post-21",
+            "odd"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/427",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/types\/page"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/comments?post=427"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/427\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 505,
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/pages\/427\/revisions\/505"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/media?parent=427"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        },
+        "_embedded": {
+            "author": [
+                {
+                    "id": 1,
+                    "name": "lahore",
+                    "url": "",
+                    "description": "",
+                    "link": "https:\/\/lahorecatering.nl\/author\/lahore\/",
+                    "slug": "lahore",
+                    "avatar_urls": {
+                        "24": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=24&d=mm&r=g",
+                        "48": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=48&d=mm&r=g",
+                        "96": "https:\/\/secure.gravatar.com\/avatar\/e031d350443481153b9243d7b4a4993de7e0c32fbe57d462ded6a650f18327a6?s=96&d=mm&r=g"
+                    },
+                    "_links": {
+                        "self": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users\/1",
+                                "targetHints": {
+                                    "allow": [
+                                        "GET"
+                                    ]
+                                }
+                            }
+                        ],
+                        "collection": [
+                            {
+                                "href": "https:\/\/lahorecatering.nl\/wp-json\/wp\/v2\/users"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+]

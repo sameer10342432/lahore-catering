@@ -13,3 +13,5 @@ desktop.ini
 # IDE & OS
 .vscode/
 .idea/
+
+dist_gh_pages/
